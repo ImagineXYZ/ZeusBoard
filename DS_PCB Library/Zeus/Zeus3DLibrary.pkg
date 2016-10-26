@@ -3,9 +3,9 @@ VER=3
 ///////////////////////////////////////////////////////////////////////////////
 
 NAME=0603
-STYLE=Shape
+STYLE=Chip
 HEIGHT=0.8
-INSIDE=0.4
+INSIDE=0
 ORIENT=H
 PINS=JLead,0
 PINOFFSET=0

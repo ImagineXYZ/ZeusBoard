@@ -1,14 +1,18 @@
 2P||2
+4P||4
 5P||5
+8P 2R||16
 AZ1117IH-3.3TRG1||3
 BMI160||14
 C||2
 CP||2
 Diode||2
+ESDProtection6||6
 Flash16Pins||16
 JST_S2B-PH-K-S||2
 L||2
 LED||2
+Li-Ion Battery Charger||5
 MCP73831T-2ATI/OT||5
 MDBT40||42
 NMOS||3

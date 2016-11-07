@@ -1,0 +1,129 @@
+PLOT REPORT
+-----------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\BMI160_Breakout\BMI160_Breakout (PCB - PLOT REPORT).txt
+Report Written:     Monday, November 07, 2016
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\BMI160_Breakout\BMI160_Breakout.pcb
+Design Title:       
+Created:            06/11/2016 12:14:29 p.m.
+Last Saved:         06/11/2016 12:29:21 p.m.
+Editing Time:       17 min
+Units:              mm (precision 3)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+
+
+Drill Settings
+==============
+
+    Excellon Format 2    Format 3.5 absolute in inches.
+    No zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\BMI160_Breakout\BMI160_Breakout.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\BMI160_Breakout\BMI160_Breakout - PreBoard.gbr
+
+    Layers:
+    ------------
+    PreBoard
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\BMI160_Breakout\BMI160_Breakout - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D79    Round 29.53
+    D81    Rectangle 13.78 X 30.51
+    D82    Rectangle 13.78 X 30.51  Rotation 90
+    D83    Square 78.74
+    D84    Round 78.74
+    D85    Round 11.81
+
+NC Drill Output
+===============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\BMI160_Breakout\BMI160_Breakout - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.03543 in 14    H
+    ------------------------------------
+    Total              14
+    ------------------------------------
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\BMI160_Breakout\BMI160_Breakout - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.00500 in 1
+    ------------------------------------
+    Total              1
+    ------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\BMI160_Breakout\BMI160_Breakout - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    35    Y      100  Round H
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+    D24    Round 100.00
+
+End Of Report.

@@ -750,3 +750,26 @@ ROUNDEDENDS=0
 
 ///////////////////////////////////////////////////////////////////////////////
 
+NAME=1010027182
+STYLE=Box
+HEIGHT=1.95
+INSIDE=1.9
+ORIENT=H
+PINS=JLead,0
+PINOFFSET=0
+PINCOLOUR=255,245,238
+STANDOFF=0
+SHAPEINSIDE=0
+COLOUR=DarkGray
+MATERIAL=Metal
+MOUNTS=0
+TOPCLOSED=1
+TOPCOLOURED=0
+STRIPED=1
+STRIPEPIN1=1
+STRIPE5BAND=0
+STRIPECOLOUR=50,50,50
+ROUNDEDENDS=0
+
+///////////////////////////////////////////////////////////////////////////////
+

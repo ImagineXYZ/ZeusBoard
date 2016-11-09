@@ -1,0 +1,16 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints (PCB - Transfer from Schematic to PCB.).txt
+Report Written:     Wednesday, November 09, 2016
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints.pcb
+Design Title:       
+Created:            09/11/2016 12:01:31 p.m.
+Last Saved:         09/11/2016 12:01:57 p.m.
+Editing Time:       0 min
+Units:              mm (precision 3)
+
+Could not load component "826936-2" package "DIL" into target design.
+Could not add "D1" component "826936-2" package "DIL" to target design.
+
+End Of Report.

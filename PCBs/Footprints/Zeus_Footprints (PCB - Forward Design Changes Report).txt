@@ -1,0 +1,16 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints (PCB - Forward Design Changes Report).txt
+Report Written:     Wednesday, November 09, 2016
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints.pcb
+Design Title:       
+Created:            09/11/2016 12:01:31 p.m.
+Last Saved:         09/11/2016 12:32:17 p.m.
+Editing Time:       34 min
+Units:              mm (precision 3)
+
+The designs are the same, so no design changes to forward.
+
+
+End Of Report.

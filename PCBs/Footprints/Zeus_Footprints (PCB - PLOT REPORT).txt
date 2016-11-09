@@ -1,0 +1,313 @@
+PLOT REPORT
+-----------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints (PCB - PLOT REPORT).txt
+Report Written:     Wednesday, November 09, 2016
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints.pcb
+Design Title:       
+Created:            09/11/2016 12:01:31 p.m.
+Last Saved:         09/11/2016 12:58:15 p.m.
+Editing Time:       56 min
+Units:              mm (precision 3)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+
+
+Drill Settings
+==============
+
+    Excellon Format 2    Format 3.5 absolute in inches.
+    No zero suppression.
+
+PDF Settings
+============
+
+Combine Plots Yes
+Use Bookmarks Yes
+Component Details Yes
+Symbol Details Yes
+Link Net Names Yes
+View PDF Yes
+All Colors Black No
+
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints - PreBoard.gbr
+
+    Layers:
+    ------------
+    PreBoard
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+    D12    Round 12.00
+    D13    Round 7.87
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D14    Square 88.74
+    D15    Round 88.74
+    D16    Rectangle 25.75 X 63.15
+    D17    Rectangle 80.87 X 84.80
+    D18    Round 84.80
+    D19    Round 55.28
+    D70    Rectangle 41.50 X 41.50
+    D71    Rectangle 41.50 X 58.82
+    D20    Rectangle 47.40 X 108.43
+    D21    Rectangle 55.28 X 96.61
+    D22    Rectangle 55.28 X 69.06  Rotation 90
+    D23    Square 84.80
+    D24    Octagon 74.80
+    D25    Octagon 60.00
+    D26    Round 84.80
+    D27    Rectangle 49.37 X 100.55
+    D28    Rectangle 29.69 X 100.55
+    D29    Rectangle 183.23 X 443.07
+    D72    Rectangle 57.24 X 128.11
+    D73    Rectangle 76.93 X 167.48
+    D74    Rectangle 49.37 X 52.91
+    D75    Rectangle 45.43 X 57.24  Rotation 90
+    D76    Rectangle 60.00 X 60.00
+    D77    Rectangle 41.50 X 41.50  Rotation 90
+    D78    Rectangle 41.50 X 57.24
+    D79    Rectangle 45.43 X 51.34
+    D80    Rectangle 71.02 X 132.05  Rotation 90
+    D81    Rectangle 23.78 X 40.51
+    D82    Rectangle 23.78 X 40.51  Rotation 90
+    D83    Rectangle 49.37 X 65.12
+    D84    Rectangle 57.64 X 104.49
+    D85    Rectangle 18.27 X 28.50
+    D86    Rectangle 33.62 X 57.24
+    D87    Rectangle 72.99 X 95.83  Rotation 90
+    D88    Rectangle 53.86 X 80.94  Rotation 90
+    D89    Rectangle 69.06 X 143.86
+    D90    Square 76.93
+    D91    Round 76.93
+    D92    Rectangle 31.65 X 45.43
+    D93    Rectangle 29.69 X 76.93  Rotation 90
+    D94    Rectangle 29.69 X 76.93
+    D95    Rectangle 35.59 X 69.84
+    D96    Rectangle 22.60 X 51.34
+    D97    Rectangle 22.60 X 51.34  Rotation 90
+    D98    Rectangle 38.35 X 63.15
+    D99    Rectangle 38.35 X 63.15  Rotation 90
+    D100   Round 80.87
+    D101   Round 65.12
+    D102   Rectangle 65.12 X 78.90
+    D103   Rectangle 21.02 X 30.47
+    D104   Rectangle 37.56 X 61.18  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints - Top Copper (Paste).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D105   Rectangle 11.75 X 49.15
+    D106   Rectangle 66.87 X 70.80
+    D107   Rectangle 27.50 X 27.50
+    D108   Rectangle 27.50 X 44.82
+    D109   Rectangle 33.40 X 94.43
+    D110   Rectangle 41.28 X 82.61
+    D111   Rectangle 41.28 X 55.06  Rotation 90
+    D112   Rectangle 35.37 X 86.55
+    D113   Rectangle 15.69 X 86.55
+    D114   Rectangle 169.23 X 429.07
+    D115   Rectangle 43.24 X 114.11
+    D116   Rectangle 62.93 X 153.48
+    D117   Rectangle 35.37 X 38.91
+    D118   Rectangle 31.43 X 43.24  Rotation 90
+    D119   Rectangle 46.00 X 46.00
+    D120   Rectangle 27.50 X 27.50  Rotation 90
+    D121   Rectangle 27.50 X 43.24
+    D122   Rectangle 31.43 X 37.34
+    D123   Rectangle 57.02 X 118.05  Rotation 90
+    D124   Rectangle 9.78 X 26.51
+    D125   Rectangle 9.78 X 26.51  Rotation 90
+    D126   Rectangle 35.37 X 51.12
+    D127   Rectangle 43.64 X 90.49
+    D128   Rectangle 4.27 X 14.50
+    D129   Rectangle 19.62 X 43.24
+    D130   Rectangle 58.99 X 81.83  Rotation 90
+    D131   Rectangle 39.86 X 66.94  Rotation 90
+    D132   Rectangle 55.06 X 129.86
+    D133   Rectangle 17.65 X 31.43
+    D134   Rectangle 15.69 X 62.93  Rotation 90
+    D135   Rectangle 15.69 X 62.93
+    D136   Rectangle 21.59 X 55.84
+    D137   Rectangle 8.60 X 37.34
+    D138   Rectangle 8.60 X 37.34  Rotation 90
+    D139   Rectangle 24.35 X 49.15
+    D140   Rectangle 24.35 X 49.15  Rotation 90
+    D141   Rectangle 51.12 X 64.90
+    D142   Rectangle 7.02 X 16.47
+    D143   Rectangle 23.56 X 47.18  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D14    Square 88.74
+    D15    Round 88.74
+    D18    Round 84.80
+    D19    Round 55.28
+    D23    Square 84.80
+    D24    Octagon 74.80
+    D25    Octagon 60.00
+    D26    Round 84.80
+    D90    Square 76.93
+    D91    Round 76.93
+    D100   Round 80.87
+    D101   Round 65.12
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints - Bottom Copper (Paste).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+
+NC Drill Output
+===============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.01969 in 2     L
+    T002  000.03150 in 7     C
+    T003  000.03346 in 2     K
+    T004  000.03543 in 47    H
+    T005  000.05118 in 2     J
+    ------------------------------------
+    Total              60
+    ------------------------------------
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.00500 in 1
+    T002  000.04921 in 2     M
+    ------------------------------------
+    Total              3
+    ------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\Footprints\Zeus_Footprints - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    31    Y      100  Round C
+    35    Y      100  Round H
+    51    Y      100  Round J
+    33    Y      100  Round K
+    20    Y      100  Round L
+    49           100  Round M
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 100.00
+    D11    Round 5.00
+
+PDF Output
+==========
+
+    Layer
+    ---------------------
+    BoardOutline
+    Bottom Copper
+    Bottom Documentation
+    Bottom Silkscreen
+    PreBoard
+    Top Copper
+    Top Documentation
+    Top Silkscreen
+
+
+End Of Report.

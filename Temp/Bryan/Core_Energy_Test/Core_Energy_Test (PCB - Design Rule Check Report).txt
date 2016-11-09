@@ -1,0 +1,65 @@
+Design Rule Check Report
+------------------------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test (PCB - Design Rule Check Report).txt
+Report Written:     Wednesday, November 09, 2016
+Project Path:       C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test.prj
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test.pcb
+Design Title:       
+Created:            08/11/2016 09:35:46 a.m.
+Last Saved:         08/11/2016 01:52:11 p.m.
+Editing Time:       262 min
+Units:              mm (precision 3)
+
+
+Results
+=======
+
+
+No errors found
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+
+
+
+End Of Report.

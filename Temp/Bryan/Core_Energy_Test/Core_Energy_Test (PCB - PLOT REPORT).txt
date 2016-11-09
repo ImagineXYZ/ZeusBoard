@@ -1,0 +1,144 @@
+PLOT REPORT
+-----------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test (PCB - PLOT REPORT).txt
+Report Written:     Tuesday, November 08, 2016
+Project Path:       C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test.prj
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test.pcb
+Design Title:       
+Created:            08/11/2016 09:35:46 a.m.
+Last Saved:         08/11/2016 10:12:30 a.m.
+Editing Time:       37 min
+Units:              mm (precision 3)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+
+
+Drill Settings
+==============
+
+    Excellon Format 2    Format 3.5 absolute in inches.
+    No zero suppression.
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    ----------------------------------------------
+    D17    Rectangle 12.60 X 41.34
+    D18    Rectangle 12.60 X 41.34  Rotation 90
+    D23    Round 39.37
+    D79    Round 29.53
+    D86    Rectangle 15.75 X 53.15
+    D87    Rectangle 70.87 X 74.80
+    D88    Round 74.80
+    D89    Round 45.28
+    D90    Square 74.80
+    D91    Octagon 74.80
+    D92    Rectangle 39.37 X 42.91  Rotation 90
+    D93    Rectangle 62.99 X 85.83
+    D94    Rectangle 39.37 X 42.91
+    D95    Round 9.84
+    D96    Round 15.75
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D88    Round 74.80
+    D89    Round 45.28
+    D90    Square 74.80
+    D91    Octagon 74.80
+
+NC Drill Output
+===============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.03346 in 2     K
+    T002  000.03543 in 5     H
+    T003  000.05118 in 2     J
+    ------------------------------------
+    Total              9
+    ------------------------------------
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.00500 in 1
+    ------------------------------------
+    Total              1
+    ------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    35    Y      100  Round H
+    51    Y      100  Round J
+    33    Y      100  Round K
+
+    D-Code Shape  (thou)
+    -----------------------
+    D11    Round 5.00
+    D24    Round 100.00
+
+End Of Report.

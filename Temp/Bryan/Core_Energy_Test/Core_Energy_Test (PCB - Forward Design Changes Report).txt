@@ -1,0 +1,30 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test (PCB - Forward Design Changes Report).txt
+Report Written:     Tuesday, November 08, 2016
+Project Path:       C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test.prj
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test.pcb
+Design Title:       
+Created:            08/11/2016 09:35:46 a.m.
+Last Saved:         08/11/2016 09:46:54 a.m.
+Editing Time:       16 min
+Units:              mm (precision 3)
+
+Disconnected pin "U1-43" from net "GND".
+Disconnected pin "U1-44" from net "GND".
+Disconnected pin "RC1-1" from net "GND".
+Disconnected pin "CC5-1" from net "GND".
+Disconnected pin "CC6-1" from net "GND".
+
+Added net "VCC".
+
+Connected pin "U1-43" to net "VCC".
+Connected pin "U1-44" to net "VCC".
+Connected pin "CON1-1" to net "VCC".
+Connected pin "RC1-1" to net "VCC".
+Connected pin "CC5-1" to net "VCC".
+Connected pin "CC6-1" to net "VCC".
+
+
+End Of Report.

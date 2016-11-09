@@ -1,0 +1,19 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test (PCB - Schematic and PCB Check Report).txt
+Report Written:     Tuesday, November 08, 2016
+Project Path:       C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test.prj
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test.pcb
+Design Title:       
+Created:            08/11/2016 09:35:46 a.m.
+Last Saved:         08/11/2016 09:46:54 a.m.
+Editing Time:       16 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic "C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test.sch" with PCB "C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\Temp\Bryan\Core_Energy_Test\Core_Energy_Test.pcb"
+========================================================================================================================================================================================================================================================================================================
+
+
+End Of Report.

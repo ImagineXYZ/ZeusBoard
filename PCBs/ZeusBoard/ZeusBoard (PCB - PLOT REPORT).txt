@@ -1,0 +1,256 @@
+PLOT REPORT
+-----------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard (PCB - PLOT REPORT).txt
+Report Written:     Thursday, November 10, 2016
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
+Design Title:       
+Created:            10/11/2016 10:51:27 a.m.
+Last Saved:         10/11/2016 02:50:06 p.m.
+Editing Time:       237 min
+Units:              mm (precision 3)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+
+
+Drill Settings
+==============
+
+    Excellon Format 2    Format 3.5 absolute in inches.
+    No zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D24    Round 5.00
+    D25    Round 12.00
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D10    Round 60.00
+    D11    Round 74.80
+    D12    Round 45.28
+    D13    Round 66.93
+    D14    Square 66.93
+    D15    Square 74.80
+    D16    Octagon 60.00
+    D17    Square 78.74
+    D18    Round 78.74
+    D19    Round 70.87
+    D70    Round 55.12
+    D71    Round 74.80
+    D20    Round 82.68
+    D21    Round 23.62
+    D22    Round 19.69
+    D26    Round 137.80
+    D27    Rectangle 15.75 X 53.15  Rotation 90
+    D28    Rectangle 70.87 X 74.80  Rotation 90
+    D29    Rectangle 21.65 X 35.43  Rotation 90
+    D72    Rectangle 31.50 X 31.50  Rotation 90
+    D73    Rectangle 39.37 X 42.91
+    D74    Rectangle 39.37 X 42.91  Rotation 90
+    D75    Rectangle 31.50 X 31.50
+    D76    Rectangle 8.27 X 18.50
+    D77    Rectangle 35.43 X 41.34
+    D78    Rectangle 61.02 X 122.05  Rotation 90
+    D79    Rectangle 31.50 X 47.24  Rotation 90
+    D80    Round 15.75
+    D81    Round 10.00
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D82    Round 143.80
+    D150   Round 66.00
+    D151   Rectangle 21.75 X 59.15  Rotation 90
+    D152   Rectangle 76.87 X 80.80  Rotation 90
+    D153   Round 80.80
+    D154   Round 51.28
+    D155   Rectangle 27.65 X 41.43  Rotation 90
+    D156   Rectangle 37.50 X 37.50  Rotation 90
+    D157   Rectangle 45.37 X 48.91
+    D158   Rectangle 45.37 X 48.91  Rotation 90
+    D159   Rectangle 37.50 X 37.50
+    D160   Rectangle 14.27 X 24.50
+    D161   Round 72.93
+    D162   Square 72.93
+    D163   Square 80.80
+    D164   Octagon 60.00
+    D165   Rectangle 41.43 X 47.34
+    D166   Rectangle 67.02 X 128.05  Rotation 90
+    D167   Rectangle 37.50 X 53.24  Rotation 90
+    D168   Square 84.74
+    D169   Round 84.74
+    D170   Round 76.87
+    D171   Round 61.12
+    D172   Round 80.80
+    D173   Round 88.68
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------
+    D10    Round 60.00
+    D11    Round 74.80
+    D12    Round 45.28
+    D13    Round 66.93
+    D14    Square 66.93
+    D15    Square 74.80
+    D16    Octagon 60.00
+    D17    Square 78.74
+    D18    Round 78.74
+    D19    Round 70.87
+    D70    Round 55.12
+    D71    Round 74.80
+    D20    Round 82.68
+    D21    Round 23.62
+    D22    Round 19.69
+    D26    Round 137.80
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (thou)
+    -----------------------
+    D82    Round 143.80
+    D150   Round 66.00
+    D153   Round 80.80
+    D154   Round 51.28
+    D161   Round 72.93
+    D162   Square 72.93
+    D163   Square 80.80
+    D164   Octagon 60.00
+    D168   Square 84.74
+    D169   Round 84.74
+    D170   Round 76.87
+    D171   Round 61.12
+    D172   Round 80.80
+    D173   Round 88.68
+
+NC Drill Output
+===============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.01969 in 2     L
+    T002  000.03150 in 8     C
+    T003  000.03346 in 2     K
+    T004  000.03543 in 29    H
+    T005  000.05118 in 2     J
+    T006  000.12598 in 2     N
+    ------------------------------------
+    Total              45
+    ------------------------------------
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.00500 in 1
+    T002  000.04921 in 2     M
+    ------------------------------------
+    Total              3
+    ------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size Shape ID
+    -----------------------------------
+    31    Y      100  Round C
+    35    Y      100  Round H
+    51    Y      100  Round J
+    33    Y      100  Round K
+    20    Y      100  Round L
+    49           100  Round M
+    126   Y      100  Round N
+
+    D-Code Shape  (thou)
+    -----------------------
+    D23    Round 100.00
+    D24    Round 5.00
+
+End Of Report.

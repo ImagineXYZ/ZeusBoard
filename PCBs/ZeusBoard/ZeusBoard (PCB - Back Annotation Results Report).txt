@@ -1,0 +1,20 @@
+Back Annotation Results Report
+------------------------------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard (PCB - Back Annotation Results Report).txt
+Report Written:     Thursday, November 10, 2016
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
+Design Title:       
+Created:            10/11/2016 10:51:27 a.m.
+Last Saved:         10/11/2016 02:15:20 p.m.
+Editing Time:       204 min
+Units:              mm (precision 3)
+
+Back Annotate renames from PCB "C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb" to Schematic "C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.sch".
+
+Error: Could not find  Value " D1".
+Error: Could not find  Component " D1".
+Error: Could not find  Component " DPWR37".
+
+
+End Of Report.

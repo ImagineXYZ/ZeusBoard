@@ -2,12 +2,12 @@ Schematic and PCB Check Report
 ------------------------------
 
 Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard (PCB - Schematic and PCB Check Report).txt
-Report Written:     Thursday, November 10, 2016
+Report Written:     Monday, November 14, 2016
 Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
 Design Title:       
 Created:            10/11/2016 10:51:27 a.m.
-Last Saved:         10/11/2016 03:27:53 p.m.
-Editing Time:       277 min
+Last Saved:         14/11/2016 05:42:56 p.m.
+Editing Time:       3270 min
 Units:              mm (precision 3)
 
 

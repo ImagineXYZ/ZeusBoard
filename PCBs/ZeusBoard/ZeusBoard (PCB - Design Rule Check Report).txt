@@ -2,38 +2,22 @@ Design Rule Check Report
 ------------------------
 
 Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard (PCB - Design Rule Check Report).txt
-Report Written:     Thursday, November 10, 2016
+Report Written:     Monday, November 14, 2016
 Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
 Design Title:       
 Created:            10/11/2016 10:51:27 a.m.
-Last Saved:         10/11/2016 03:37:54 p.m.
-Editing Time:       288 min
+Last Saved:         14/11/2016 06:05:56 p.m.
+Editing Time:       3287 min
 Units:              mm (precision 3)
 
 
 Results
 =======
 
-Pad to Silkscreen error (P-S) at (491.160 530.148) on layer "Top Silkscreen".
-    Silkscreen text 'U1' overlaps pad.
-Pad to Silkscreen error (P-S) at (492.498 519.278) on layer "Top Silkscreen".
-    Silkscreen text 'CC5' overlaps pad.
-Pad to Silkscreen error (P-S) at (491.498 520.409) on layer "Top Silkscreen".
-    Silkscreen text 'CC5' overlaps pad.
-Gap in Net "CORE_RST" between (487.660,531.783) and (491.998,515.747) 
-    CORE_RST.
-Gap in Net "GND" between (491.998,517.525) and (491.998,517.525) 
-    GND.
-Gap in Net "GND" between (494.157,517.525) and (494.157,517.525) 
-    GND.
-Gap in Net "N0077" between (486.160,531.783) and (491.998,520.954) 
-    N0077.
-Gap in Net "N0077" between (491.998,520.954) and (494.157,515.747) 
-    N0077.
-Gap in Net "VCC" between (491.998,519.176) and (491.998,519.176) 
-    VCC.
+Single pin net MEM_CS1 on U5.7 at 522.074,501.489
+Single pin net MEM_CS2 on U5.6 at 522.074,502.759
 
-Number of errors found : 9
+Number of errors found : 2
 
 
 Settings

@@ -6,8 +6,8 @@ Report Written:     Thursday, November 10, 2016
 Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
 Design Title:       
 Created:            10/11/2016 10:51:27 a.m.
-Last Saved:         10/11/2016 02:50:06 p.m.
-Editing Time:       237 min
+Last Saved:         10/11/2016 04:21:45 p.m.
+Editing Time:       318 min
 Units:              mm (precision 3)
 
 
@@ -93,6 +93,12 @@ C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCB
     D79    Rectangle 31.50 X 47.24  Rotation 90
     D80    Round 15.75
     D81    Round 10.00
+    D83    Rectangle 12.60 X 41.34  Rotation 90
+    D84    Rectangle 12.60 X 41.34
+    D85    Rectangle 62.99 X 85.83  Rotation 90
+    D86    Rectangle 47.64 X 94.49
+    D87    Octagon 74.80
+    D88    Round 31.50
 
 Gerber Output
 =============
@@ -105,31 +111,37 @@ C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCB
 
     D-Code Shape  (thou)
     -----------------------------------------------
-    D82    Round 143.80
-    D150   Round 66.00
-    D151   Rectangle 21.75 X 59.15  Rotation 90
-    D152   Rectangle 76.87 X 80.80  Rotation 90
-    D153   Round 80.80
-    D154   Round 51.28
-    D155   Rectangle 27.65 X 41.43  Rotation 90
-    D156   Rectangle 37.50 X 37.50  Rotation 90
-    D157   Rectangle 45.37 X 48.91
-    D158   Rectangle 45.37 X 48.91  Rotation 90
-    D159   Rectangle 37.50 X 37.50
-    D160   Rectangle 14.27 X 24.50
-    D161   Round 72.93
-    D162   Square 72.93
-    D163   Square 80.80
-    D164   Octagon 60.00
-    D165   Rectangle 41.43 X 47.34
-    D166   Rectangle 67.02 X 128.05  Rotation 90
-    D167   Rectangle 37.50 X 53.24  Rotation 90
-    D168   Square 84.74
-    D169   Round 84.74
-    D170   Round 76.87
-    D171   Round 61.12
-    D172   Round 80.80
-    D173   Round 88.68
+    D126   Round 57.64
+    D127   Round 135.43
+    D128   Rectangle 13.39 X 50.79  Rotation 90
+    D129   Rectangle 68.50 X 72.44  Rotation 90
+    D130   Round 72.44
+    D131   Round 42.91
+    D132   Rectangle 19.29 X 33.07  Rotation 90
+    D133   Rectangle 29.13 X 29.13  Rotation 90
+    D134   Rectangle 37.01 X 40.55
+    D135   Rectangle 37.01 X 40.55  Rotation 90
+    D136   Rectangle 29.13 X 29.13
+    D137   Rectangle 5.91 X 16.14
+    D138   Round 64.57
+    D139   Square 64.57
+    D140   Square 72.44
+    D141   Octagon 60.00
+    D142   Rectangle 33.07 X 38.98
+    D143   Rectangle 58.66 X 119.69  Rotation 90
+    D144   Rectangle 29.13 X 44.88  Rotation 90
+    D145   Square 76.38
+    D146   Round 76.38
+    D147   Round 68.50
+    D148   Round 52.76
+    D149   Round 72.44
+    D174   Rectangle 10.24 X 38.98  Rotation 90
+    D175   Rectangle 10.24 X 38.98
+    D176   Rectangle 60.63 X 83.46  Rotation 90
+    D177   Rectangle 45.28 X 92.13
+    D178   Octagon 74.80
+    D179   Round 80.31
+    D180   Round 29.13
 
 Gerber Output
 =============
@@ -158,6 +170,9 @@ C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCB
     D21    Round 23.62
     D22    Round 19.69
     D26    Round 137.80
+    D81    Round 10.00
+    D87    Octagon 74.80
+    D88    Round 31.50
 
 Gerber Output
 =============
@@ -170,20 +185,22 @@ C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCB
 
     D-Code Shape  (thou)
     -----------------------
-    D82    Round 143.80
-    D150   Round 66.00
-    D153   Round 80.80
-    D154   Round 51.28
-    D161   Round 72.93
-    D162   Square 72.93
-    D163   Square 80.80
-    D164   Octagon 60.00
-    D168   Square 84.74
-    D169   Round 84.74
-    D170   Round 76.87
-    D171   Round 61.12
-    D172   Round 80.80
-    D173   Round 88.68
+    D10    Round 57.64
+    D11    Round 135.43
+    D12    Round 72.44
+    D13    Round 42.91
+    D14    Round 64.57
+    D15    Square 64.57
+    D16    Square 72.44
+    D17    Octagon 60.00
+    D18    Square 76.38
+    D19    Round 76.38
+    D70    Round 68.50
+    D71    Round 52.76
+    D20    Round 72.44
+    D21    Octagon 74.80
+    D22    Round 80.31
+    D23    Round 29.13
 
 NC Drill Output
 ===============
@@ -198,14 +215,15 @@ C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCB
 
     Tool  Size         Count   ID
     ------------------------------------
-    T001  000.01969 in 2     L
-    T002  000.03150 in 8     C
-    T003  000.03346 in 2     K
-    T004  000.03543 in 29    H
-    T005  000.05118 in 2     J
-    T006  000.12598 in 2     N
+    T001  000.01575 in 2     O
+    T002  000.01969 in 2     L
+    T003  000.03150 in 8     C
+    T004  000.03346 in 2     K
+    T005  000.03543 in 38    H
+    T006  000.05118 in 2     J
+    T007  000.12598 in 2     N
     ------------------------------------
-    Total              45
+    Total              56
     ------------------------------------
 
 C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Drill Data - [Through Hole] (Unplated).drl
@@ -247,10 +265,11 @@ Drill Ident Drawing
     20    Y      100  Round L
     49           100  Round M
     126   Y      100  Round N
+    16    Y      100  Round O
 
     D-Code Shape  (thou)
     -----------------------
-    D23    Round 100.00
-    D24    Round 5.00
+    D24    Round 100.00
+    D25    Round 5.00
 
 End Of Report.

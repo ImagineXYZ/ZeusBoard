@@ -6,18 +6,77 @@ Report Written:     Wednesday, November 16, 2016
 Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
 Design Title:       
 Created:            10/11/2016 10:51:27 a.m.
-Last Saved:         16/11/2016 02:16:02 a.m.
-Editing Time:       4064 min
+Last Saved:         16/11/2016 02:44:13 p.m.
+Editing Time:       4433 min
 Units:              mm (precision 3)
 
 
 Results
 =======
 
-Single pin net V44 on JD1.2 at 470.367,543.116
-Dangling Track from (470.967,545.969) to (469.635,524.984) on layer Top Copper
+Pad to Silkscreen error (P-S) at (481.182 499.743) on layer "Top Silkscreen".
+    Silkscreen text 'DR4' overlaps pad.
+Pad to Silkscreen error (P-S) at (481.182 501.521) on layer "Top Silkscreen".
+    Silkscreen text 'DR4' overlaps pad.
+Pad to Silkscreen error (P-S) at (480.596 493.703) on layer "Top Silkscreen".
+    Silkscreen text 'JR2' overlaps pad.
+Pad to Silkscreen error (P-S) at (480.596 491.925) on layer "Top Silkscreen".
+    Silkscreen text 'JR2' overlaps pad.
+Via to Silkscreen error (V-S) at (483.837 501.494) on layer "Top Silkscreen".
+    Silkscreen text 'RR1' overlaps via.
+Pad to Silkscreen error (P-S) at (482.340 493.481) on layer "Top Silkscreen".
+    Silkscreen text 'DR5' overlaps pad.
+Pad to Silkscreen error (P-S) at (482.157 493.481) on layer "Top Silkscreen".
+    Silkscreen text 'JR2' overlaps pad.
+Pad to Silkscreen error (P-S) at (481.650 496.676) on layer "Top Silkscreen".
+    Silkscreen text 'DR5' overlaps pad.
+Pad to Silkscreen error (P-S) at (481.650 495.105) on layer "Top Silkscreen".
+    Silkscreen text 'DR5' overlaps pad.
+Pad to Silkscreen error (P-S) at (481.050 495.853) on layer "Top Silkscreen".
+    Silkscreen text 'JR2' overlaps pad.
+Pad to Silkscreen error (P-S) at (485.105 494.707) on layer "Top Silkscreen".
+    Silkscreen text 'JR1' overlaps pad.
+Pad to Silkscreen error (P-S) at (485.105 495.818) on layer "Top Silkscreen".
+    Silkscreen text 'JR1' overlaps pad.
+Track to Via Error (T-V) between (490.605 483.916) and (490.766 484.077) on Layer "Bottom Copper".
+    Error between Track (Net 'SD_CS') and Via (Net 'IMU_INT1'), Gap is 0.000 needs to be 0.140.
+Gap in Net "CORE_RRI" between (481.840,492.936) and (481.650,495.505) 
+    CORE_RRI.
+Gap in Net "CORE_RRI" between (481.650,495.505) and (479.845,517.693) 
+    CORE_RRI.
+Gap in Net "CORE_RRX" between (484.160,517.618) and (484.507,496.297) 
+    CORE_RRX.
+Gap in Net "CORE_RTX" between (483.660,517.618) and (487.455,496.297) 
+    CORE_RTX.
+Gap in Net "GND" between (480.096,491.380) and (480.096,491.380) 
+    GND.
+Gap in Net "GND" between (481.840,491.158) and (481.840,491.158) 
+    GND.
+Gap in Net "N0361" between (477.203,504.310) and (484.186,518.868) 
+    N0361.
+Gap in Net "N0367" between (477.203,503.310) and (480.035,504.220) 
+    N0367.
+Gap in Net "N0367" between (480.035,504.220) and (481.682,502.066) 
+    N0367.
+Gap in Net "N0368" between (477.203,502.310) and (479.875,502.348) 
+    N0368.
+Gap in Net "N0375" between (477.203,501.310) and (483.393,498.481) 
+    N0375.
+Gap in Net "N0378" between (477.203,495.310) and (481.682,500.288) 
+    N0378.
+Gap in Net "N0378" between (481.682,500.288) and (483.393,500.259) 
+    N0378.
+Gap in Net "N0382" between (477.203,498.310) and (481.650,496.705) 
+    N0382.
+Gap in Net "N0391" between (481.235,504.220) and (487.455,493.757) 
+    N0391.
+Gap in Net "N0393" between (479.875,501.148) and (480.096,493.158) 
+    N0393.
+Gap in Net "N0393" between (480.096,493.158) and (484.507,493.757) 
+    N0393.
+Dangling Track from (482.185,519.593) to (479.845,517.693) on layer Top Copper
 
-Number of errors found : 2
+Number of errors found : 31
 
 
 Settings

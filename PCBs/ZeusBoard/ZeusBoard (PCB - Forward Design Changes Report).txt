@@ -6,20 +6,29 @@ Report Written:     Wednesday, November 16, 2016
 Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
 Design Title:       
 Created:            10/11/2016 10:51:27 a.m.
-Last Saved:         16/11/2016 01:25:26 a.m.
-Editing Time:       4050 min
+Last Saved:         16/11/2016 02:39:46 p.m.
+Editing Time:       4430 min
 Units:              mm (precision 3)
 
 Ignoring instance OUT1 ("Logo_XYZ_Large") as it is defined for PCB only (no Schematic information).
 
-Added net "N0327".
+Disconnected pin "DR3-2" from net "CORE_RTX".
+Disconnected pin "DR4-2" from net "CORE_RRX".
+Disconnected pin "RR3-1" from net "CORE_RRX".
 
-Added component reference "SWB1" of component "FSMSM", package "SM".
+Added net "N0391".
+Added net "N0393".
 
-Connected pin "U3-24" to net "N0327".
-Connected pin "U3-25" to net "GND".
-Connected pin "SWB1-1" to net "GND".
-Connected pin "SWB1-2" to net "N0327".
+Added component reference "JR1" of component "826936-2", package "SOL".
+Added component reference "JR2" of component "826936-2", package "SOL".
+
+Connected pin "DR3-2" to net "N0391".
+Connected pin "DR4-2" to net "N0393".
+Connected pin "RR3-1" to net "N0393".
+Connected pin "JR1-1" to net "N0391".
+Connected pin "JR1-2" to net "CORE_RTX".
+Connected pin "JR2-1" to net "N0393".
+Connected pin "JR2-2" to net "CORE_RRX".
 
 
 End Of Report.

@@ -1,1 +1,3 @@
+JC2: Pad (1P)
 JC3: Pad (1P)
+JB1: Selector PCB (PADs cercanos)

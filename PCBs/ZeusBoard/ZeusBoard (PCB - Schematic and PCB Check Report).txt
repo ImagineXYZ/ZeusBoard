@@ -6,8 +6,8 @@ Report Written:     Wednesday, November 16, 2016
 Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
 Design Title:       
 Created:            10/11/2016 10:51:27 a.m.
-Last Saved:         16/11/2016 01:25:26 a.m.
-Editing Time:       4050 min
+Last Saved:         16/11/2016 02:39:46 p.m.
+Editing Time:       4430 min
 Units:              mm (precision 3)
 
 

@@ -6,29 +6,14 @@ Report Written:     Wednesday, November 16, 2016
 Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
 Design Title:       
 Created:            10/11/2016 10:51:27 a.m.
-Last Saved:         16/11/2016 02:39:46 p.m.
-Editing Time:       4430 min
+Last Saved:         16/11/2016 05:04:49 p.m.
+Editing Time:       4573 min
 Units:              mm (precision 3)
 
 Ignoring instance OUT1 ("Logo_XYZ_Large") as it is defined for PCB only (no Schematic information).
 
-Disconnected pin "DR3-2" from net "CORE_RTX".
-Disconnected pin "DR4-2" from net "CORE_RRX".
-Disconnected pin "RR3-1" from net "CORE_RRX".
+Renamed component reference "CON11" to "CON11".
 
-Added net "N0391".
-Added net "N0393".
-
-Added component reference "JR1" of component "826936-2", package "SOL".
-Added component reference "JR2" of component "826936-2", package "SOL".
-
-Connected pin "DR3-2" to net "N0391".
-Connected pin "DR4-2" to net "N0393".
-Connected pin "RR3-1" to net "N0393".
-Connected pin "JR1-1" to net "N0391".
-Connected pin "JR1-2" to net "CORE_RTX".
-Connected pin "JR2-1" to net "N0393".
-Connected pin "JR2-2" to net "CORE_RRX".
 
 
 End Of Report.

@@ -2,20 +2,20 @@ Design Rule Check Report
 ------------------------
 
 Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard (PCB - Design Rule Check Report).txt
-Report Written:     Monday, November 14, 2016
+Report Written:     Wednesday, November 16, 2016
 Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
 Design Title:       
 Created:            10/11/2016 10:51:27 a.m.
-Last Saved:         14/11/2016 06:05:56 p.m.
-Editing Time:       3287 min
+Last Saved:         16/11/2016 02:16:02 a.m.
+Editing Time:       4064 min
 Units:              mm (precision 3)
 
 
 Results
 =======
 
-Single pin net MEM_CS1 on U5.7 at 522.074,501.489
-Single pin net MEM_CS2 on U5.6 at 522.074,502.759
+Single pin net V44 on JD1.2 at 470.367,543.116
+Dangling Track from (470.967,545.969) to (469.635,524.984) on layer Top Copper
 
 Number of errors found : 2
 

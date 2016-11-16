@@ -2,31 +2,24 @@ Forward Design Changes Report
 -----------------------------
 
 Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard (PCB - Forward Design Changes Report).txt
-Report Written:     Monday, November 14, 2016
+Report Written:     Wednesday, November 16, 2016
 Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
 Design Title:       
 Created:            10/11/2016 10:51:27 a.m.
-Last Saved:         14/11/2016 05:42:56 p.m.
-Editing Time:       3270 min
+Last Saved:         16/11/2016 01:25:26 a.m.
+Editing Time:       4050 min
 Units:              mm (precision 3)
 
 Ignoring instance OUT1 ("Logo_XYZ_Large") as it is defined for PCB only (no Schematic information).
 
-Added net "N0182".
-Added net "MEM_CS1".
-Added net "MEM_CS2".
+Added net "N0327".
 
-Added component reference "CM1" of component "GRM188R70J104KA01D", package "SM".
+Added component reference "SWB1" of component "FSMSM", package "SM".
 
-Connected pin "U5-2" to net "N0182".
-Connected pin "U5-6" to net "MEM_CS2".
-Connected pin "U5-7" to net "MEM_CS1".
-Connected pin "U5-8" to net "MISO".
-Connected pin "U5-10" to net "GND".
-Connected pin "U5-15" to net "MOSI".
-Connected pin "U5-16" to net "SCK".
-Connected pin "CM1-1" to net "N0182".
-Connected pin "CM1-2" to net "GND".
+Connected pin "U3-24" to net "N0327".
+Connected pin "U3-25" to net "GND".
+Connected pin "SWB1-1" to net "GND".
+Connected pin "SWB1-2" to net "N0327".
 
 
 End Of Report.

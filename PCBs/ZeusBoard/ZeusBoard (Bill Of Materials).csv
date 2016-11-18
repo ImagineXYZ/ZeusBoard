@@ -1,144 +1,144 @@
-Report File:,C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard (Bill Of Materials).csv,,,,,,,,
-Report Written:,"Wednesday, November 16, 2016",,,,,,,,
-Design Path:,C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb,,,,,,,,
-Design Title:,,,,,,,,,
-Created:,10/11/2016 10:51:27 a.m.,,,,,,,,
-Last Saved:,16/11/2016 05:06:41 p.m.,,,,,,,,
-Editing Time:,4575 min,,,,,,,,
-Units:,mm (precision 3),,,,,,,,
-,,,,,,,,,
-Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb,,,,,,,,,
---------------------------------------------------------------------------,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-Ref Name,Qty,Component,Value,Package,Manufacturer,MPN,RS Part Number,Other Part Number,Description
-JC3,1,1P,,SOL,,,,,
-JC2,1,1P,,SOL,,,,,
-CON9,1,47589-0001,,SM,,,,,
-DR7,1,150060YS75000,,SM,,,,,
-CON5,1,503182-1852,,SM,,,,,
-JPWR2,1,826936-2,,SOL,,,,,
-JPWR1,1,826936-2,,SOL,,,,,
-JPWR3,1,826936-2,,SOL,,,,,
-JCMOSI,1,826936-2,,SOL,,,,,
-JCSCK,1,826936-2,,SOL,,,,,
-JMISO,1,826936-2,,SOL,,,,,
-JBTX,1,826936-2,,SOL,,,,,
-JBRX,1,826936-2,,SOL,,,,,
-JR1,1,826936-2,,SOL,,,,,
-JR2,1,826936-2,,SOL,,,,,
-CON6,1,826949-5,,SOL,,,,,
-CON7,1,826949-5,,SOL,,,,,
-JG1,1,929800-01-02,,SOL,,,,,
-JG2,1,929800-01-02,,SOL,,,,,
-JD1,1,929800-01-02,,SOL,,,,,
-CON11,1,861400082LO1332LF,,DIL,,,,,
-CON4,1,1010027182,,SM,,,,,
-CON10,1,61300411121,,4P,,,,,
-CON8,1,61300511121,,5P,,,,,
-CR3,1,885012006002,10pF,SM,,,,,
-CPWR3,1,885012106003,1uF 6.3V,SM,,,,,
-CB1,1,885012106003,1uF 6.3V,SM,,,,,
-U6,1,A2235-H,,SM,,,,,
-DPWR3,1,AP1608SGC,,SM,,,,,
-DPWR1,1,APT1608EC,,SM,,,,,
-U8,1,AZ1117IH-3.3TRG1,,SM,,,,,
-U4,1,BMI160,,SM,,,,,
-QR1,1,BSS138,,SM,,,,,
-QX1,1,BSS138,,SM,,,,,
-QX2,1,BSS138,,SM,,,,,
-QX3,1,BSS138,,SM,,,,,
-CD2,1,C0603C180K5GACTU,18pF,SM,,,,,
-LC1,1,CBMF1608T100K,10uH,SM,,,,,
-DZR1,1,CD0603-Z5V1,5.1V 500mW,SM,,,,,
-DR6,1,CDSU400B,,SM,,,,,
-DG1,1,CDSU400B,,SM,,,,,
-DG2,1,CDSU400B,,SM,,,,,
-DR1,1,CDSU400B,,SM,,,,,
-DR2,1,CDSU400B,,SM,,,,,
-DR3,1,CDSU400B,,SM,,,,,
-DR4,1,CDSU400B,,SM,,,,,
-DR5,1,CDSU400B,,SM,,,,,
-DC1,1,CLM3A-MKW-CVBXA513,,SM,,,,,
-RD2,1,CRCW0603100KFKEA,100k,SM,,,,,
-RG4,1,CRCW06030000Z0EA,0,SOL,,,,,
-RG5,1,CRCW06030000Z0EA,0,SOL,,,,,
-RG6,1,CRCW06030000Z0EA,0,SOL,,,,,
-RG7,1,CRCW06030000Z0EA,0,SOL,,,,,
-DPWR4,1,DB2G32600L1,,SM,,,,,
-UR1,1,ESDA6V1-5SC6,,SM,,,,,
-RC1,1,ESR03EZPF1002,10k,SM,,,,,
-RR7,1,ESR03EZPF1002,10k,SM,,,,,
-RG1,1,ESR03EZPF1002,10k,SM,,,,,
-RG8,1,ESR03EZPF1002,10k,SM,,,,,
-RG9,1,ESR03EZPF1002,10k,SM,,,,,
-RB3,1,ESR03EZPF1002,10k,SM,,,,,
-RB4,1,ESR03EZPF1002,10k,SM,,,,,
-RR3,1,ESR03EZPF1002,10k,SM,,,,,
-RR2,1,ESR03EZPF1002,10k,SM,,,,,
-RR1,1,ESR03EZPF1002,10k,SM,,,,,
-RR4,1,ESR03EZPF1002,10k,SM,,,,,
-RX1,1,ESR03EZPF1002,10k,SM,,,,,
-RX2,1,ESR03EZPF1002,10k,SM,,,,,
-RX3,1,ESR03EZPF1002,10k,SM,,,,,
-RX4,1,ESR03EZPF1002,10k,SM,,,,,
-RX5,1,ESR03EZPF1002,10k,SM,,,,,
-RX6,1,ESR03EZPF1002,10k,SM,,,,,
-RPWR4,1,ESR03EZPJ102,1k,SM,,,,,
-RPWR1,1,ESR03EZPJ102,1k,SM,,,,,
-RC3,1,ESR03EZPJ102,1k,SM,,,,,
-RR6,1,ESR03EZPJ102,1k,SM,,,,,
-RPWR2,1,ESR03EZPJ222,2.2k,SM,,,,,
-RG2,1,ESR03EZPJ222,2.2k,SM,,,,,
-RG3,1,ESR03EZPJ222,2.2k,SM,,,,,
-RC2,1,ESR03EZPJ301,300,SM,,,,,
-RPWR3,1,ESR03EZPJ471,470,SM,,,,,
-SWC1,1,FSMSM,,SM,,,,,
-SWG1,1,FSMSM,,SM,,,,,
-SWG2,1,FSMSM,,SM,,,,,
-SWB1,1,FSMSM,,SM,,,,,
-SW2,1,FSMSM,,SM,,,,,
-SW3,1,FSMSM,,SM,,,,,
-CC8,1,GQM1885C1H9R0CB01D,9pF 50V,SM,,,,,
-CC7,1,GQM1885C1H9R0CB01D,9pF 50V,SM,,,,,
-CBX2,1,GQM1885C1H9R0CB01D,9pF 50V,SM,,,,,
-CBX1,1,GQM1885C1H9R0CB01D,9pF 50V,SM,,,,,
-CR1,1,GRM31CD80J107ME39L,100uF 6.3V,SM,,,,,
-CC4,1,GRM188R60J105KA01D,1uF,SM,,,,,
-CPWR2,1,GRM188R60J106ME47D,10uF 6.3V,SM,,,,,
-CC1,1,GRM188R60J106ME47D,10uF 6.3V,SM,,,,,
-CD1,1,GRM188R60J106ME47D,10uF 6.3V,SM,,,,,
-CD3,1,GRM188R60J106ME47D,10uF 6.3V,SM,,,,,
-CR5,1,GRM188R60J475KE19D,4.7uF,SM,,,,,
-CPWR1,1,GRM188R61C106MAALD,10uF 16V,SM,,,,,
-CC5,1,GRM188R70J104KA01D,0.1uF 6.3V,SM,,,,,
-CC3,1,GRM188R70J104KA01D,0.1uF 6.3V,SM,,,,,
-CC2,1,GRM188R70J104KA01D,0.1uF 6.3V,SM,,,,,
-CC9,1,GRM188R70J104KA01D,0.1uF 6.3V,SM,,,,,
-CC6,1,GRM188R70J104KA01D,0.1uF 6.3V,SM,,,,,
-CC10,1,GRM188R70J104KA01D,0.1uF 6.3V,SM,,,,,
-CI2,1,GRM188R70J104KA01D,0.1uF 6.3V,SM,,,,,
-CI1,1,GRM188R70J104KA01D,0.1uF 6.3V,SM,,,,,
-CM1,1,GRM188R70J104KA01D,0.1uF 6.3V,SM,,,,,
-CR4,1,GRM188R70J104KA01D,0.1uF 6.3V,SM,,,,,
-CB2,1,GRM188R70J104KA01D,0.1uF 6.3V,SM,,,,,
-DPWR2,1,HT-193USD-5590,,SM,,,,,
-LD1,1,IHLP1212AEERR47M11,470nH,SM,,,,,
-JST1,1,JST_S2B-PH-K-S,,SOL,,,,,
-CPWR4,1,KR-5R5C105-R,1F 5.5V,SOL,,,,,
-OUT1,1,Logo_XYZ_Large,,USER,,,,,Logo Imagine XYZ
-U7,1,MCP73831T-2ACI/OT,,SM,,,,,
-U3,1,MDBT40,,SM,,,,,
-JB1,1,PCB_Selector3P,,SOL,,,,,
-RD1,1,RK73H1JTTD4023F,,SM,,,,,
-U5,1,S70FL01GSAGFI011,,SM,,,,,
-U1,1,SAMD21,,SM,,,,,
-U2,1,SIM808,,SM,,,,,
-SW1,1,SS-12D07-VG 4 NS GA PA,,SOL,,,,,
-XTC1,1,ST3215SB32768E0HPWBB,,SM,,,,,
-XBT1,1,ST3215SB32768E0HPWBB,,SM,,,,,
-U9,1,TPS61021ADSGR,,SM,,,,,
-CON2,1,U.FL-R-SMT-1(01),,SM,,,,,
-CON3,1,U.FL-R-SMT-1(01),,SM,,,,,
-CON1,1,U.FL-R-SMT-1(01),,SM,,,,,
-CR2,1,VJ0603A330JXQCW1BC,33pF,SM,,,,,
+"Report File:","C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard (Bill Of Materials).csv"
+"Report Written:","Wednesday, November 16, 2016"
+"Design Path:","C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb"
+"Design Title:",""
+"Created:","10/11/2016 10:51:27 a.m."
+"Last Saved:","16/11/2016 05:06:41 p.m."
+"Editing Time:","4584 min"
+"Units:","mm (precision 3)"
+
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
+--------------------------------------------------------------------------
+
+
+"Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
+"JC3","1","1P","","SOL","","","","",""
+"JC2","1","1P","","SOL","","","","",""
+"CON9","1","47589-0001","","SM","","","","",""
+"DR7","1","150060YS75000","","SM","","","","",""
+"CON5","1","503182-1852","","SM","","","","",""
+"JPWR2","1","826936-2","","SOL","","","","",""
+"JPWR1","1","826936-2","","SOL","","","","",""
+"JPWR3","1","826936-2","","SOL","","","","",""
+"JCMOSI","1","826936-2","","SOL","","","","",""
+"JCSCK","1","826936-2","","SOL","","","","",""
+"JMISO","1","826936-2","","SOL","","","","",""
+"JBTX","1","826936-2","","SOL","","","","",""
+"JBRX","1","826936-2","","SOL","","","","",""
+"JR1","1","826936-2","","SOL","","","","",""
+"JR2","1","826936-2","","SOL","","","","",""
+"CON6","1","826949-5","","SOL","","","","",""
+"CON7","1","826949-5","","SOL","","","","",""
+"JG1","1","929800-01-02","","SOL","","","","",""
+"JG2","1","929800-01-02","","SOL","","","","",""
+"JD1","1","929800-01-02","","SOL","","","","",""
+"CON11","1","861400082LO1332LF","","DIL","","","","",""
+"CON4","1","1010027182","","SM","","","","",""
+"CON10","1","61300411121","","4P","","","","",""
+"CON8","1","61300511121","","5P","","","","",""
+"CR3","1","885012006002","10pF","SM","","","","",""
+"CPWR3","1","885012106003","1uF 6.3V","SM","","","","",""
+"CB1","1","885012106003","1uF 6.3V","SM","","","","",""
+"U6","1","A2235-H","","SM","","","","",""
+"DPWR3","1","AP1608SGC","","SM","","","","",""
+"DPWR1","1","APT1608EC","","SM","","","","",""
+"U8","1","AZ1117IH-3.3TRG1","","SM","","","","",""
+"U4","1","BMI160","","SM","","","","",""
+"QR1","1","BSS138","","SM","","","","",""
+"QX1","1","BSS138","","SM","","","","",""
+"QX2","1","BSS138","","SM","","","","",""
+"QX3","1","BSS138","","SM","","","","",""
+"CD2","1","C0603C180K5GACTU","18pF","SM","","","","",""
+"LC1","1","CBMF1608T100K","10uH","SM","","","","",""
+"DZR1","1","CD0603-Z5V1","5.1V 500mW","SM","","","","",""
+"DR6","1","CDSU400B","","SM","","","","",""
+"DG1","1","CDSU400B","","SM","","","","",""
+"DG2","1","CDSU400B","","SM","","","","",""
+"DR1","1","CDSU400B","","SM","","","","",""
+"DR2","1","CDSU400B","","SM","","","","",""
+"DR3","1","CDSU400B","","SM","","","","",""
+"DR4","1","CDSU400B","","SM","","","","",""
+"DR5","1","CDSU400B","","SM","","","","",""
+"DC1","1","CLM3A-MKW-CVBXA513","","SM","","","","",""
+"RD2","1","CRCW0603100KFKEA","100k","SM","","","","",""
+"RG4","1","CRCW06030000Z0EA","0","SOL","","","","",""
+"RG5","1","CRCW06030000Z0EA","0","SOL","","","","",""
+"RG6","1","CRCW06030000Z0EA","0","SOL","","","","",""
+"RG7","1","CRCW06030000Z0EA","0","SOL","","","","",""
+"DPWR4","1","DB2G32600L1","","SM","","","","",""
+"UR1","1","ESDA6V1-5SC6","","SM","","","","",""
+"RC1","1","ESR03EZPF1002","10k","SM","","","","",""
+"RR7","1","ESR03EZPF1002","10k","SM","","","","",""
+"RG1","1","ESR03EZPF1002","10k","SM","","","","",""
+"RG8","1","ESR03EZPF1002","10k","SM","","","","",""
+"RG9","1","ESR03EZPF1002","10k","SM","","","","",""
+"RB3","1","ESR03EZPF1002","10k","SM","","","","",""
+"RB4","1","ESR03EZPF1002","10k","SM","","","","",""
+"RR3","1","ESR03EZPF1002","10k","SM","","","","",""
+"RR2","1","ESR03EZPF1002","10k","SM","","","","",""
+"RR1","1","ESR03EZPF1002","10k","SM","","","","",""
+"RR4","1","ESR03EZPF1002","10k","SM","","","","",""
+"RX1","1","ESR03EZPF1002","10k","SM","","","","",""
+"RX2","1","ESR03EZPF1002","10k","SM","","","","",""
+"RX3","1","ESR03EZPF1002","10k","SM","","","","",""
+"RX4","1","ESR03EZPF1002","10k","SM","","","","",""
+"RX5","1","ESR03EZPF1002","10k","SM","","","","",""
+"RX6","1","ESR03EZPF1002","10k","SM","","","","",""
+"RPWR4","1","ESR03EZPJ102","1k","SM","","","","",""
+"RPWR1","1","ESR03EZPJ102","1k","SM","","","","",""
+"RC3","1","ESR03EZPJ102","1k","SM","","","","",""
+"RR6","1","ESR03EZPJ102","1k","SM","","","","",""
+"RPWR2","1","ESR03EZPJ222","2.2k","SM","","","","",""
+"RG2","1","ESR03EZPJ222","2.2k","SM","","","","",""
+"RG3","1","ESR03EZPJ222","2.2k","SM","","","","",""
+"RC2","1","ESR03EZPJ301","300","SM","","","","",""
+"RPWR3","1","ESR03EZPJ471","470","SM","","","","",""
+"SWC1","1","FSMSM","","SM","","","","",""
+"SWG1","1","FSMSM","","SM","","","","",""
+"SWG2","1","FSMSM","","SM","","","","",""
+"SWB1","1","FSMSM","","SM","","","","",""
+"SW2","1","FSMSM","","SM","","","","",""
+"SW3","1","FSMSM","","SM","","","","",""
+"CC8","1","GQM1885C1H9R0CB01D","9pF 50V","SM","","","","",""
+"CC7","1","GQM1885C1H9R0CB01D","9pF 50V","SM","","","","",""
+"CBX2","1","GQM1885C1H9R0CB01D","9pF 50V","SM","","","","",""
+"CBX1","1","GQM1885C1H9R0CB01D","9pF 50V","SM","","","","",""
+"CR1","1","GRM31CD80J107ME39L","100uF 6.3V","SM","","","","",""
+"CC4","1","GRM188R60J105KA01D","1uF","SM","","","","",""
+"CPWR2","1","GRM188R60J106ME47D","10uF 6.3V","SM","","","","",""
+"CC1","1","GRM188R60J106ME47D","10uF 6.3V","SM","","","","",""
+"CD1","1","GRM188R60J106ME47D","10uF 6.3V","SM","","","","",""
+"CD3","1","GRM188R60J106ME47D","10uF 6.3V","SM","","","","",""
+"CR5","1","GRM188R60J475KE19D","4.7uF","SM","","","","",""
+"CPWR1","1","GRM188R61C106MAALD","10uF 16V","SM","","","","",""
+"CC5","1","GRM188R70J104KA01D","0.1uF 6.3V","SM","","","","",""
+"CC3","1","GRM188R70J104KA01D","0.1uF 6.3V","SM","","","","",""
+"CC2","1","GRM188R70J104KA01D","0.1uF 6.3V","SM","","","","",""
+"CC9","1","GRM188R70J104KA01D","0.1uF 6.3V","SM","","","","",""
+"CC6","1","GRM188R70J104KA01D","0.1uF 6.3V","SM","","","","",""
+"CC10","1","GRM188R70J104KA01D","0.1uF 6.3V","SM","","","","",""
+"CI2","1","GRM188R70J104KA01D","0.1uF 6.3V","SM","","","","",""
+"CI1","1","GRM188R70J104KA01D","0.1uF 6.3V","SM","","","","",""
+"CM1","1","GRM188R70J104KA01D","0.1uF 6.3V","SM","","","","",""
+"CR4","1","GRM188R70J104KA01D","0.1uF 6.3V","SM","","","","",""
+"CB2","1","GRM188R70J104KA01D","0.1uF 6.3V","SM","","","","",""
+"DPWR2","1","HT-193USD-5590","","SM","","","","",""
+"LD1","1","IHLP1212AEERR47M11","470nH","SM","","","","",""
+"JST1","1","JST_S2B-PH-K-S","","SOL","","","","",""
+"CPWR4","1","KR-5R5C105-R","1F 5.5V","SOL","","","","",""
+"OUT1","1","Logo_XYZ_Large","","USER","","","","","Logo Imagine XYZ"
+"U7","1","MCP73831T-2ACI/OT","","SM","","","","",""
+"U3","1","MDBT40","","SM","","","","",""
+"JB1","1","PCB_Selector3P","","SOL","","","","",""
+"RD1","1","RK73H1JTTD4023F","","SM","","","","",""
+"U5","1","S70FL01GSAGFI011","","SM","","","","",""
+"U1","1","SAMD21","","SM","","","","",""
+"U2","1","SIM808","","SM","","","","",""
+"SW1","1","SS-12D07-VG 4 NS GA PA","","SOL","","","","",""
+"XTC1","1","ST3215SB32768E0HPWBB","","SM","","","","",""
+"XBT1","1","ST3215SB32768E0HPWBB","","SM","","","","",""
+"U9","1","TPS61021ADSGR","","SM","","","","",""
+"CON2","1","U.FL-R-SMT-1(01)","","SM","","","","",""
+"CON3","1","U.FL-R-SMT-1(01)","","SM","","","","",""
+"CON1","1","U.FL-R-SMT-1(01)","","SM","","","","",""
+"CR2","1","VJ0603A330JXQCW1BC","33pF","SM","","","","",""

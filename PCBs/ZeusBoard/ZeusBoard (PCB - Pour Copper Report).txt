@@ -2,13 +2,20 @@ Pour Copper Report
 ------------------
 
 Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard (PCB - Pour Copper Report).txt
-Report Written:     Thursday, November 10, 2016
+Report Written:     Monday, November 21, 2016
+Project Path:       C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.prj
 Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
 Design Title:       
 Created:            10/11/2016 10:51:27 a.m.
-Last Saved:         10/11/2016 02:50:06 p.m.
-Editing Time:       237 min
+Last Saved:         21/11/2016 10:37:50 a.m.
+Editing Time:       4737 min
 Units:              mm (precision 3)
 
+U3.13 at 470.163,488.064 has no thermal spokes
+U3.16 at 470.163,485.964 has no thermal spokes
+U3.25 at 470.163,479.664 has no thermal spokes
+U3.28 at 467.213,479.114 has no thermal spokes
+U9.1 at 465.802,549.879 has no thermal spokes
+RD2.2 at 461.203,551.832 has no thermal spokes
 
 End Of Report.

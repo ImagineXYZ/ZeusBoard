@@ -2,12 +2,13 @@ Design Rule Check Report
 ------------------------
 
 Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard (PCB - Design Rule Check Report).txt
-Report Written:     Wednesday, November 16, 2016
+Report Written:     Monday, November 21, 2016
+Project Path:       C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.prj
 Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
 Design Title:       
 Created:            10/11/2016 10:51:27 a.m.
-Last Saved:         16/11/2016 05:03:44 p.m.
-Editing Time:       4572 min
+Last Saved:         21/11/2016 10:23:09 a.m.
+Editing Time:       4725 min
 Units:              mm (precision 3)
 
 

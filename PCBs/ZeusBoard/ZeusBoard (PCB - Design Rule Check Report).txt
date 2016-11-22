@@ -2,185 +2,21 @@ Design Rule Check Report
 ------------------------
 
 Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard (PCB - Design Rule Check Report).txt
-Report Written:     Monday, November 21, 2016
+Report Written:     Tuesday, November 22, 2016
 Project Path:       C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.prj
 Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
 Design Title:       
 Created:            10/11/2016 10:51:27 a.m.
-Last Saved:         21/11/2016 01:26:48 p.m.
-Editing Time:       4817 min
+Last Saved:         21/11/2016 02:02:38 p.m.
+Editing Time:       4830 min
 Units:              mm (precision 3)
 
 
 Results
 =======
 
-Gap in Net "GND" between (1.490,56.898) and (1.397,69.342) 
-    GND.
-Gap in Net "GND" between (1.490,56.898) and (2.965,59.138) 
-    GND.
-Gap in Net "GND" between (1.490,56.898) and (11.032,15.330) 
-    GND.
-Gap in Net "GND" between (1.490,56.898) and (13.149,78.596) 
-    GND.
-Gap in Net "GND" between (14.181,48.801) and (14.181,48.801) 
-    GND.
-Gap in Net "GND" between (1.490,56.898) and (14.657,20.066) 
-    GND.
-Gap in Net "GND" between (14.783,36.593) and (14.783,36.593) 
-    GND.
-Gap in Net "GND" between (14.783,41.673) and (14.783,41.673) 
-    GND.
-Gap in Net "GND" between (16.346,88.835) and (16.346,88.835) 
-    GND.
-Gap in Net "GND" between (17.574,10.398) and (17.711,11.182) 
-    GND.
-Gap in Net "GND" between (2.856,9.827) and (18.948,5.726) 
-    GND.
-Gap in Net "GND" between (22.645,49.302) and (22.645,49.302) 
-    GND.
-Gap in Net "GND" between (26.919,50.533) and (23.692,62.904) 
-    GND.
-Gap in Net "GND" between (1.397,4.211) and (23.753,8.268) 
-    GND.
-Gap in Net "GND" between (24.182,90.020) and (24.182,90.020) 
-    GND.
-Gap in Net "GND" between (27.845,48.109) and (27.845,48.109) 
-    GND.
-Gap in Net "GND" between (28.714,36.844) and (28.714,36.844) 
-    GND.
-Gap in Net "GND" between (38.522,45.912) and (34.251,46.474) 
-    GND.
-Gap in Net "GND" between (34.859,8.409) and (34.859,8.409) 
-    GND.
-Gap in Net "GND" between (40.797,33.290) and (40.797,33.290) 
-    GND.
-Gap in Net "GND" between (38.522,45.912) and (41.011,34.663) 
-    GND.
-Gap in Net "GND" between (38.522,45.912) and (41.525,37.236) 
-    GND.
-Gap in Net "GND" between (44.717,27.326) and (44.717,27.326) 
-    GND.
-Gap in Net "GND" between (1.490,56.898) and (45.034,16.786) 
-    GND.
-Gap in Net "GND" between (46.492,29.681) and (46.492,29.681) 
-    GND.
-Gap in Net "GND" between (1.490,56.898) and (47.090,10.362) 
-    GND.
-Gap in Net "GND" between (1.490,56.898) and (48.586,11.653) 
-    GND.
-Gap in Net "GND" between (1.490,56.898) and (49.653,47.925) 
-    GND.
-Gap in Net "GND" between (1.490,56.898) and (50.102,42.982) 
-    GND.
-Gap in Net "GND" between (1.490,56.898) and (55.835,24.184) 
-    GND.
-Gap in Net "GND" between (56.754,29.320) and (56.754,29.320) 
-    GND.
-Gap in Net "GND" between (57.483,10.295) and (57.483,10.295) 
-    GND.
-Gap in Net "GND" between (1.490,56.898) and (57.483,11.705) 
-    GND.
-Gap in Net "GND" between (59.797,21.033) and (59.797,21.033) 
-    GND.
-Gap in Net "GND" between (1.397,69.342) and (10.781,81.764) 
-    GND.
-Gap in Net "GND" between (14.181,48.801) and (13.207,53.933) 
-    GND.
-Gap in Net "GND" between (14.181,48.801) and (14.823,53.714) 
-    GND.
-Gap in Net "GND" between (18.618,89.131) and (18.618,89.131) 
-    GND.
-Gap in Net "GND" between (22.645,49.302) and (24.817,48.865) 
-    GND.
-Gap in Net "GND" between (1.397,23.078) and (25.378,27.250) 
-    GND.
-Gap in Net "GND" between (28.714,36.844) and (25.672,28.722) 
-    GND.
-Gap in Net "GND" between (1.397,23.078) and (26.836,30.701) 
-    GND.
-Gap in Net "GND" between (27.845,48.109) and (27.257,45.794) 
-    GND.
-Gap in Net "GND" between (25.420,14.156) and (29.600,10.322) 
-    GND.
-Gap in Net "GND" between (1.397,23.078) and (32.285,27.849) 
-    GND.
-Gap in Net "GND" between (1.397,23.078) and (32.285,32.204) 
-    GND.
-Gap in Net "GND" between (32.285,35.084) and (32.285,35.084) 
-    GND.
-Gap in Net "GND" between (22.571,11.182) and (32.837,11.628) 
-    GND.
-Gap in Net "GND" between (23.692,62.904) and (33.952,77.897) 
-    GND.
-Gap in Net "GND" between (1.397,23.078) and (35.420,13.058) 
-    GND.
-Gap in Net "GND" between (1.397,23.078) and (37.246,11.233) 
-    GND.
-Gap in Net "GND" between (1.397,23.078) and (38.199,7.311) 
-    GND.
-Gap in Net "GND" between (38.325,79.830) and (38.325,79.830) 
-    GND.
-Gap in Net "GND" between (40.797,33.290) and (39.230,34.890) 
-    GND.
-Gap in Net "GND" between (1.397,23.078) and (40.412,7.661) 
-    GND.
-Gap in Net "GND" between (41.525,37.236) and (41.132,36.216) 
-    GND.
-Gap in Net "GND" between (46.492,29.681) and (42.179,43.708) 
-    GND.
-Gap in Net "GND" between (44.717,27.326) and (43.206,21.480) 
-    GND.
-Gap in Net "GND" between (43.342,60.237) and (43.342,60.237) 
-    GND.
-Gap in Net "GND" between (46.492,29.681) and (43.986,44.754) 
-    GND.
-Gap in Net "GND" between (2.932,64.251) and (44.748,79.733) 
-    GND.
-Gap in Net "GND" between (45.838,67.985) and (45.838,67.985) 
-    GND.
-Gap in Net "GND" between (46.332,45.687) and (46.332,45.687) 
-    GND.
-Gap in Net "GND" between (44.717,27.326) and (46.839,18.688) 
-    GND.
-Gap in Net "GND" between (50.102,42.982) and (48.979,47.786) 
-    GND.
-Gap in Net "GND" between (50.102,42.982) and (50.827,54.347) 
-    GND.
-Gap in Net "GND" between (55.835,24.184) and (52.148,22.400) 
-    GND.
-Gap in Net "GND" between (57.483,11.705) and (55.760,29.683) 
-    GND.
-Gap in Net "GND" between (57.210,41.029) and (57.210,41.029) 
-    GND.
-Gap in Net "GND" between (56.754,29.320) and (57.578,31.384) 
-    GND.
-Gap in Net "GND" between (59.797,21.033) and (62.634,24.928) 
-    GND.
-Gap in Net "GND" between (2.932,64.251) and (63.240,29.049) 
-    GND.
-Gap in Net "GND" between (67.686,23.425) and (67.686,23.425) 
-    GND.
-Gap in Net "GND" between (67.750,17.971) and (67.750,17.971) 
-    GND.
-Gap in Net "GND" between (67.750,28.781) and (67.750,28.781) 
-    GND.
-Gap in Net "GND" between (74.937,49.752) and (74.937,49.752) 
-    GND.
-Gap in Net "GND" between (76.270,50.295) and (76.270,50.295) 
-    GND.
-Gap in Net "GND" between (77.387,29.999) and (77.387,29.999) 
-    GND.
-Gap in Net "GND" between (77.898,51.672) and (77.898,51.672) 
-    GND.
-Gap in Net "GND" between (78.197,45.122) and (78.197,45.122) 
-    GND.
-Gap in Net "GND" between (79.039,18.546) and (79.039,18.546) 
-    GND.
-Gap in Net "GND" between (79.578,48.624) and (79.578,48.624) 
-    GND.
 
-Number of errors found : 82
+No errors found
 
 
 Settings

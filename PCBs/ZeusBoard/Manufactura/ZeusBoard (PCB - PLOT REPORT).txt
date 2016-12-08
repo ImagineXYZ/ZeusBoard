@@ -1,0 +1,555 @@
+PLOT REPORT
+-----------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard (PCB - PLOT REPORT).txt
+Report Written:     Thursday, December 08, 2016
+Project Path:       C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.prj
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
+Design Title:       
+Created:            10/11/2016 10:51:27 a.m.
+Last Saved:         08/12/2016 11:55:58 a.m.
+Editing Time:       5166 min
+Units:              mm (precision 3)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute mm.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in inches.
+    No zero suppression.
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - BoardCuyout.GBR
+
+    Layers:
+    ---------------
+    BoardCuyout
+
+    D-Code Shape  (mm)
+    ---------------------
+    D11    Round 0.127
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Top Silkscreen.GBR
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (mm)
+    ---------------------
+    D11    Round 0.127
+    D108   Round 0.305
+    D109   Round 0.050
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Top Copper.GBR
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (mm)
+    ----------------------------------------------
+    D11    Round 0.127
+    D12    Round 0.500
+    D13    Round 2.100
+    D14    Round 3.500
+    D15    Rectangle 0.400 X 1.350  Rotation 90
+    D16    Rectangle 1.800 X 1.900  Rotation 90
+    D17    Round 1.900
+    D18    Round 1.150
+    D19    Rectangle 0.550 X 0.900  Rotation 90
+    D70    Rectangle 0.800 X 0.800  Rotation 90
+    D71    Rectangle 1.000 X 1.090
+    D20    Rectangle 1.000 X 1.090  Rotation 90
+    D21    Rectangle 0.800 X 0.800
+    D22    Rectangle 0.210 X 0.470
+    D23    Round 1.700
+    D24    Square 1.700
+    D25    Square 1.900
+    D26    Octagon 1.524
+    D27    Rectangle 0.900 X 1.050
+    D28    Rectangle 1.550 X 3.100  Rotation 90
+    D29    Rectangle 0.800 X 1.200  Rotation 90
+    D72    Square 2.000
+    D73    Round 2.000
+    D74    Round 1.800
+    D75    Round 1.400
+    D76    Rectangle 0.320 X 1.050  Rotation 90
+    D77    Rectangle 0.320 X 1.050
+    D78    Rectangle 1.600 X 2.180  Rotation 90
+    D79    Rectangle 1.210 X 2.400
+    D80    Octagon 1.900
+    D81    Rectangle 1.400 X 1.750  Rotation 90
+    D82    Rectangle 0.720 X 1.350  Rotation 90
+    D83    Rectangle 0.720 X 1.350
+    D84    Rectangle 0.800 X 1.200
+    D85    Rectangle 0.900 X 1.200  Rotation 90
+    D86    Rectangle 1.270 X 1.270
+    D87    Rectangle 0.350 X 0.775
+    D88    Rectangle 0.350 X 0.775  Rotation 90
+    D89    Rectangle 1.000 X 1.400  Rotation 90
+    D90    Rectangle 1.050 X 2.200  Rotation 90
+    D91    Rectangle 1.000 X 1.000  Rotation 90
+    D92    Rectangle 1.050 X 2.200
+    D93    Rectangle 1.000 X 1.000
+    D94    Rectangle 1.114 X 1.802
+    D95    Rectangle 1.000 X 1.400
+    D96    Round 0.850
+    D97    Round 0.400
+    D98    Round 0.600
+    D99    Round 0.260
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Top Copper (Resist).GBR
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (mm)
+    ----------------------------------------------
+    D100   Round 2.354
+    D101   Round 3.754
+    D102   Rectangle 0.654 X 1.604  Rotation 90
+    D103   Rectangle 2.054 X 2.154  Rotation 90
+    D104   Round 2.154
+    D105   Round 1.404
+    D106   Rectangle 0.804 X 1.154  Rotation 90
+    D110   Rectangle 1.054 X 1.054  Rotation 90
+    D111   Rectangle 1.254 X 1.344
+    D112   Rectangle 1.254 X 1.344  Rotation 90
+    D113   Rectangle 1.054 X 1.054
+    D114   Rectangle 0.464 X 0.724
+    D115   Round 1.954
+    D116   Square 1.954
+    D117   Square 2.154
+    D118   Octagon 1.524
+    D119   Rectangle 1.154 X 1.304
+    D120   Rectangle 1.804 X 3.354  Rotation 90
+    D121   Rectangle 1.054 X 1.454  Rotation 90
+    D122   Square 2.254
+    D123   Round 2.254
+    D124   Round 2.054
+    D125   Round 1.654
+    D126   Rectangle 0.574 X 1.304  Rotation 90
+    D127   Rectangle 0.574 X 1.304
+    D128   Rectangle 1.854 X 2.434  Rotation 90
+    D129   Rectangle 1.464 X 2.654
+    D130   Octagon 1.900
+    D131   Rectangle 1.654 X 2.004  Rotation 90
+    D132   Rectangle 0.974 X 1.604  Rotation 90
+    D133   Rectangle 0.974 X 1.604
+    D134   Rectangle 1.054 X 1.454
+    D135   Rectangle 1.154 X 1.454  Rotation 90
+    D136   Rectangle 1.524 X 1.524
+    D137   Rectangle 0.604 X 1.029
+    D138   Rectangle 0.604 X 1.029  Rotation 90
+    D139   Rectangle 1.254 X 1.654  Rotation 90
+    D140   Rectangle 1.304 X 2.454  Rotation 90
+    D141   Rectangle 1.254 X 1.254  Rotation 90
+    D142   Rectangle 1.304 X 2.454
+    D143   Rectangle 1.254 X 1.254
+    D144   Rectangle 1.368 X 2.056
+    D145   Rectangle 1.254 X 1.654
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Top Solder Mask.GBR
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (mm)
+    ----------------------------------------------
+    D146   Round 2.040
+    D147   Round 3.440
+    D148   Rectangle 0.340 X 1.290  Rotation 90
+    D149   Rectangle 1.740 X 1.840  Rotation 90
+    D150   Round 1.840
+    D151   Round 1.090
+    D152   Rectangle 0.490 X 0.840  Rotation 90
+    D153   Rectangle 0.740 X 0.740  Rotation 90
+    D154   Rectangle 0.940 X 1.030
+    D155   Rectangle 0.940 X 1.030  Rotation 90
+    D156   Rectangle 0.740 X 0.740
+    D157   Rectangle 0.150 X 0.410
+    D158   Round 1.640
+    D159   Square 1.640
+    D160   Square 1.840
+    D161   Octagon 1.524
+    D162   Rectangle 0.840 X 0.990
+    D163   Rectangle 1.490 X 3.040  Rotation 90
+    D164   Rectangle 0.740 X 1.140  Rotation 90
+    D165   Square 1.940
+    D166   Round 1.940
+    D167   Round 1.740
+    D168   Round 1.340
+    D169   Rectangle 0.260 X 0.990  Rotation 90
+    D170   Rectangle 0.260 X 0.990
+    D171   Rectangle 1.540 X 2.120  Rotation 90
+    D172   Rectangle 1.150 X 2.340
+    D173   Octagon 1.900
+    D174   Rectangle 1.340 X 1.690  Rotation 90
+    D175   Rectangle 0.660 X 1.290  Rotation 90
+    D176   Rectangle 0.660 X 1.290
+    D177   Rectangle 0.740 X 1.140
+    D178   Rectangle 0.840 X 1.140  Rotation 90
+    D179   Rectangle 1.210 X 1.210
+    D180   Rectangle 0.290 X 0.715
+    D181   Rectangle 0.290 X 0.715  Rotation 90
+    D182   Rectangle 0.940 X 1.340  Rotation 90
+    D183   Rectangle 0.990 X 2.140  Rotation 90
+    D184   Rectangle 0.940 X 0.940  Rotation 90
+    D185   Rectangle 0.990 X 2.140
+    D186   Rectangle 0.940 X 0.940
+    D187   Rectangle 1.054 X 1.742
+    D188   Rectangle 0.940 X 1.340
+    D189   Round 0.790
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Top Paste Mask.GBR
+
+    Layers:
+    ------------------
+    Top Paste Mask
+
+    D-Code Shape  (mm)
+    ----------------------------------------------
+    D150   Rectangle 0.248 X 1.198  Rotation 90
+    D151   Rectangle 1.648 X 1.748  Rotation 90
+    D152   Rectangle 0.398 X 0.748  Rotation 90
+    D153   Rectangle 0.648 X 0.648  Rotation 90
+    D154   Rectangle 0.848 X 0.938
+    D155   Rectangle 0.848 X 0.938  Rotation 90
+    D156   Rectangle 0.648 X 0.648
+    D157   Rectangle 0.058 X 0.318
+    D158   Rectangle 0.748 X 0.898
+    D159   Rectangle 1.398 X 2.948  Rotation 90
+    D160   Rectangle 0.648 X 1.048  Rotation 90
+    D161   Rectangle 0.168 X 0.898  Rotation 90
+    D162   Rectangle 0.168 X 0.898
+    D163   Rectangle 1.448 X 2.028  Rotation 90
+    D164   Rectangle 1.058 X 2.248
+    D165   Rectangle 1.248 X 1.598  Rotation 90
+    D166   Rectangle 0.568 X 1.198  Rotation 90
+    D167   Rectangle 0.568 X 1.198
+    D168   Rectangle 0.648 X 1.048
+    D169   Rectangle 0.748 X 1.048  Rotation 90
+    D170   Rectangle 1.118 X 1.118
+    D171   Rectangle 0.198 X 0.623
+    D172   Rectangle 0.198 X 0.623  Rotation 90
+    D173   Rectangle 0.848 X 1.248  Rotation 90
+    D174   Rectangle 0.898 X 2.048  Rotation 90
+    D175   Rectangle 0.848 X 0.848  Rotation 90
+    D176   Rectangle 0.898 X 2.048
+    D177   Rectangle 0.848 X 0.848
+    D178   Rectangle 0.962 X 1.650
+    D179   Rectangle 0.848 X 1.248
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Bottom Copper.GBR
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (mm)
+    ----------------------------------------------------------------
+    D10    Round 0.127
+    D11    Round 0.500
+    D12    Round 2.100
+    D13    Round 3.500
+    D14    Round 1.900
+    D15    Round 1.150
+    D16    Round 1.700
+    D17    Square 1.700
+    D18    Square 1.900
+    D19    Octagon 1.524
+    D70    Square 2.000
+    D71    Round 2.000
+    D20    Round 1.800
+    D21    Round 1.400
+    D22    Octagon 1.900
+    D23    Rectangle 1.000 X 2.300  Rotation 90
+    D24    Rectangle 0.500 X 2.300  Rotation 90
+    D25    Rectangle 4.400 X 11.000  Rotation 90
+    D26    Rectangle 1.200 X 3.000  Rotation 90
+    D27    Rectangle 1.700 X 4.000  Rotation 90
+    D28    Rectangle 0.600 X 1.200  Rotation 90
+    D29    Rectangle 0.650 X 1.520  Rotation 90
+    D72    Rectangle 0.800 X 1.240
+    D73    Rectangle 0.950 X 2.500
+    D74    Rectangle 1.300 X 3.040
+    D75    Rectangle 1.150 X 1.500  Rotation 90
+    D76    Rectangle 1.150 X 2.200
+    D77    Rectangle 1.000 X 1.090
+    D78    Rectangle 1.000 X 1.090  Rotation 90
+    D79    Rectangle 0.500 X 1.700
+    D80    Rectangle 0.500 X 1.700  Rotation 90
+    D81    Rectangle 1.400 X 1.750
+    D82    Rectangle 0.280 X 0.520  Rotation 90
+    D83    Rectangle 0.700 X 1.300
+    D84    Rectangle 1.500 X 3.400
+    D85    Chamfered Rectangle 1.700 X 2.600 X 0.500  Rotation 90
+    D86    Rectangle 0.800 X 1.200
+    D87    Rectangle 0.800 X 1.200  Rotation 90
+    D88    Round 0.850
+    D89    Round 0.600
+    D90    Round 0.260
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Bottom Copper (Resist).GBR
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (mm)
+    ----------------------------------------------------------------
+    D91    Round 2.354
+    D92    Round 3.754
+    D93    Round 2.154
+    D94    Round 1.404
+    D95    Round 1.954
+    D96    Square 1.954
+    D97    Square 2.154
+    D98    Octagon 1.524
+    D99    Square 2.254
+    D100   Round 2.254
+    D101   Round 2.054
+    D102   Round 1.654
+    D103   Octagon 1.900
+    D104   Rectangle 1.254 X 2.554  Rotation 90
+    D105   Rectangle 0.754 X 2.554  Rotation 90
+    D106   Rectangle 4.654 X 11.254  Rotation 90
+    D107   Rectangle 1.454 X 3.254  Rotation 90
+    D108   Rectangle 1.954 X 4.254  Rotation 90
+    D109   Rectangle 0.854 X 1.454  Rotation 90
+    D110   Rectangle 0.904 X 1.774  Rotation 90
+    D111   Rectangle 1.054 X 1.494
+    D112   Rectangle 1.204 X 2.754
+    D113   Rectangle 1.554 X 3.294
+    D114   Rectangle 1.404 X 1.754  Rotation 90
+    D115   Rectangle 1.404 X 2.454
+    D116   Rectangle 1.254 X 1.344
+    D117   Rectangle 1.254 X 1.344  Rotation 90
+    D118   Rectangle 0.754 X 1.954
+    D119   Rectangle 0.754 X 1.954  Rotation 90
+    D120   Rectangle 1.654 X 2.004
+    D121   Rectangle 0.534 X 0.774  Rotation 90
+    D122   Rectangle 0.954 X 1.554
+    D123   Rectangle 1.754 X 3.654
+    D124   Chamfered Rectangle 1.700 X 2.600 X 0.500  Rotation 90
+    D125   Rectangle 1.054 X 1.454
+    D126   Rectangle 1.054 X 1.454  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Bottom Silkscreen.GBR
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (mm)
+    ---------------------
+    D10    Round 0.127
+    D120   Round 0.200
+    D121   Round 0.305
+    D122   Round 0.050
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Bottom Solder Mask.GBR
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (mm)
+    ----------------------------------------------------------------
+    D10    Round 2.040
+    D11    Round 3.440
+    D12    Round 1.840
+    D13    Round 1.090
+    D14    Round 1.640
+    D15    Square 1.640
+    D16    Square 1.840
+    D17    Octagon 1.524
+    D18    Square 1.940
+    D19    Round 1.940
+    D70    Round 1.740
+    D71    Round 1.340
+    D20    Octagon 1.900
+    D21    Rectangle 0.940 X 2.240  Rotation 90
+    D22    Rectangle 0.440 X 2.240  Rotation 90
+    D23    Rectangle 4.340 X 10.940  Rotation 90
+    D24    Rectangle 1.140 X 2.940  Rotation 90
+    D25    Rectangle 1.640 X 3.940  Rotation 90
+    D26    Rectangle 0.540 X 1.140  Rotation 90
+    D27    Rectangle 0.590 X 1.460  Rotation 90
+    D28    Rectangle 0.740 X 1.180
+    D29    Rectangle 0.890 X 2.440
+    D72    Rectangle 1.240 X 2.980
+    D73    Rectangle 1.090 X 1.440  Rotation 90
+    D74    Rectangle 1.090 X 2.140
+    D75    Rectangle 0.940 X 1.030
+    D76    Rectangle 0.940 X 1.030  Rotation 90
+    D77    Rectangle 0.440 X 1.640
+    D78    Rectangle 0.440 X 1.640  Rotation 90
+    D79    Rectangle 1.340 X 1.690
+    D80    Rectangle 0.220 X 0.460  Rotation 90
+    D81    Rectangle 0.640 X 1.240
+    D82    Rectangle 1.440 X 3.340
+    D83    Chamfered Rectangle 1.700 X 2.600 X 0.500  Rotation 90
+    D84    Rectangle 0.740 X 1.140
+    D85    Rectangle 0.740 X 1.140  Rotation 90
+    D86    Round 0.790
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Bottom Paste Mask.GBR
+
+    Layers:
+    ---------------------
+    Bottom Paste Mask
+
+    D-Code Shape  (mm)
+    ----------------------------------------------------------------
+    D87    Rectangle 0.848 X 2.148  Rotation 90
+    D88    Rectangle 0.348 X 2.148  Rotation 90
+    D89    Rectangle 4.248 X 10.848  Rotation 90
+    D90    Rectangle 1.048 X 2.848  Rotation 90
+    D91    Rectangle 1.548 X 3.848  Rotation 90
+    D92    Rectangle 0.448 X 1.048  Rotation 90
+    D93    Rectangle 0.498 X 1.368  Rotation 90
+    D94    Rectangle 0.648 X 1.088
+    D95    Rectangle 0.798 X 2.348
+    D96    Rectangle 1.148 X 2.888
+    D97    Rectangle 0.998 X 1.348  Rotation 90
+    D98    Rectangle 0.998 X 2.048
+    D99    Rectangle 0.848 X 0.938
+    D100   Rectangle 0.848 X 0.938  Rotation 90
+    D101   Rectangle 0.348 X 1.548
+    D102   Rectangle 0.348 X 1.548  Rotation 90
+    D103   Rectangle 1.248 X 1.598
+    D104   Rectangle 0.128 X 0.368  Rotation 90
+    D105   Rectangle 0.548 X 1.148
+    D106   Rectangle 1.348 X 3.248
+    D107   Chamfered Rectangle 1.700 X 2.600 X 0.500  Rotation 90
+    D108   Rectangle 0.648 X 1.048
+    D109   Rectangle 0.648 X 1.048  Rotation 90
+
+NC Drill Output
+===============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.01575 in 37    O
+    T002  000.01969 in 2     L
+    T003  000.03150 in 18    C
+    T004  000.03346 in 2     K
+    T005  000.03543 in 126   H
+    T006  000.05118 in 2     J
+    T007  000.12598 in 4     N
+    ------------------------------------
+    Total              191
+    ------------------------------------
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size         Count   ID
+    ------------------------------------
+    T001  000.00500 in 1
+    T002  000.04921 in 2     M
+    ------------------------------------
+    Total              3
+    ------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard - Drill Ident Drawing - [Through Hole].GBR
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size  Shape ID
+    ------------------------------------
+    0.800 Y      2.540 Round C
+    0.900 Y      2.540 Round H
+    1.300 Y      2.540 Round J
+    0.850 Y      2.540 Round K
+    0.500 Y      2.540 Round L
+    1.250        2.540 Round M
+    3.200 Y      2.540 Round N
+    0.400 Y      2.540 Round O
+
+    D-Code Shape  (mm)
+    ---------------------
+    D110   Round 2.540
+    D111   Round 0.127
+
+End Of Report.

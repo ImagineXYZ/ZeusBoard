@@ -1,0 +1,61 @@
+Item No. Qty. Ref. Desig.                                                         Value           IPN
+1        1    CON9                                                                                47589-0001
+2        1    U7                                                                                  MCP73831T-2ACI/OT
+3        1    DPWR2                                                                               HT-193USD-5590
+4        1    RPWR3                                                               470             ESR03EZPJ471
+5        4    RPWR4,RPWR1,RC3,RR6                                                 1k              ESR03EZPJ102
+9        1    DPWR4                                                                               DB2G32600L1
+10       1    JST1                                                                                JST_S2B-PH-K-S
+11       10   JPWR2,JPWR1,JPWR3,JCMOSI,JCSCK,JMISO,JBTX,JBRX,JR1,JR2                              826936-2
+21       1    CPWR1                                                               10uF 16V        GRM188R61C106MAALD
+22       1    U8                                                                                  AZ1117IH-3.3TRG1
+23       4    CPWR2,CC1,CD1,CD3                                                   10uF 6.3V       GRM188R60J106ME47D
+27       2    CPWR3,CB1                                                           1uF 6.3V        885012106003
+29       1    DPWR1                                                                               APT1608EC
+30       1    CPWR4                                                               1F 5.5V         KR-5R5C105-R
+31       1    SW1                                                                                 SS-12D07-VG 4 NS GA PA
+32       1    CON11                                                                               861400082LO1332LF
+33       1    DPWR3                                                                               AP1608SGC
+34       2    RG2,RG3                                                             2.2k            ESR03EZPJ222
+36       1    RPWR2                                                                               ESR03EZPJ222
+37       17   RC1,RR7,RG1,RG8,RG9,RB3,RB4,RR3,RR2,RR1,RR4,RX1,RX2,RX3,RX4,RX5,RX6 10k             ESR03EZPF1002
+54       6    SWC1,SWG1,SWG2,SWB1,SW2,SW3                                                         FSMSM
+60       1    RC2                                                                 300             ESR03EZPJ301
+61       11   CC5,CC3,CC2,CC9,CC6,CC10,CI2,CI1,CM1,CR4,CB2                        0.1uF 6.3V      GRM188R70J104KA01D
+72       1    CC4                                                                 1uF             GRM188R60J105KA01D
+73       1    DC1                                                                                 CLM3A-MKW-CVBXA513
+74       1    CON8                                                                                61300511121
+75       2    XTC1,XBT1                                                                           ST3215SB32768E0HPWBB
+77       4    CC8,CC7,CBX2,CBX1                                                   9pF 50V         GQM1885C1H9R0CB01D
+81       1    LC1                                                                 10uH            CBMF1608T100K
+82       1    U2                                                                                  SIM808
+83       1    CON4                                                                                1010027182
+84       1    UR1                                                                                 ESDA6V1-5SC6
+85       8    DR6,DG1,DG2,DR1,DR2,DR3,DR4,DR5                                                     CDSU400B
+93       1    U6                                                                                  A2235-H
+94       1    U5                                                                                  S70FL01GSAGFI011
+95       1    U4                                                                                  BMI160
+96       1    CON5                                                                                503182-1852
+97       1    CON10                                                                               61300411121
+98       4    RG4,RG5,RG6,RG7                                                     0               CRCW06030000Z0EA
+102      3    JG1,JG2,JD1                                                                         929800-01-02
+105      1    U3                                                                                  MDBT40
+106      2    CON6,CON7                                                                           826949-5
+108      1    DR7                                                                                 150060YS75000
+109      4    QR1,QX1,QX2,QX3                                                                     BSS138
+113      1    U1                                                                                  SAMD21
+114      3    CON2,CON3,CON1                                                                      U.FL-R-SMT-1(01)
+117      1    U9                                                                                  TPS61021ADSGR
+118      1    LD1                                                                 470nH           IHLP1212AEERR47M11
+119      1    CD2                                                                 18pF            C0603C180K5GACTU
+120      1    RD1                                                                                 RK73H1JTTD4023F
+121      1    RD2                                                                 100k            CRCW0603100KFKEA
+122      2    JC3,JC2                                                                             1P
+124      1    JB1                                                                                 PCB_Selector3P
+125      1    CR1                                                                 100uF 6.3V      GRM31CD80J107ME39L
+126      1    CR2                                                                 33pF            VJ0603A330JXQCW1BC
+127      1    CR3                                                                 10pF            885012006002
+128      1    DZR1                                                                5.1V 500mW      CD0603-Z5V1
+129      1    CR5                                                                 4.7uF           GRM188R60J475KE19D
+130      1    U10                                                                                 ZeusBoard_Logo_Scale0.1
+131      2    U11,U12                                                                             Logo_ImagineXYZ_0.5

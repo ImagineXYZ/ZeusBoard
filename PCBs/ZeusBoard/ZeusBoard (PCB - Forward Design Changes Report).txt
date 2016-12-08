@@ -1,0 +1,26 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard (PCB - Forward Design Changes Report).txt
+Report Written:     Sunday, November 27, 2016
+Project Path:       C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.prj
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
+Design Title:       
+Created:            10/11/2016 10:51:27 a.m.
+Last Saved:         22/11/2016 02:18:42 p.m.
+Editing Time:       5018 min
+Units:              mm (precision 3)
+
+Ignoring instance OUT1 ("Logo_XYZ_Large") as it is defined for PCB only (no Schematic information).
+Ignoring instance U10 ("ZeusBoard_Logo_Scale0.1") as it is defined for PCB only (no Schematic information).
+
+Disconnected pin "U5-2" from net "N0182".
+Disconnected pin "CM1-1" from net "N0182".
+
+Deleted net "N0182".
+
+Connected pin "U5-2" to net "VCC".
+Connected pin "CM1-1" to net "VCC".
+
+
+End Of Report.

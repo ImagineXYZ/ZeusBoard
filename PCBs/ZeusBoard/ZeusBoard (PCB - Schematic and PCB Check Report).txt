@@ -1,0 +1,19 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard (PCB - Schematic and PCB Check Report).txt
+Report Written:     Sunday, November 27, 2016
+Project Path:       C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.prj
+Design Path:        C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb
+Design Title:       
+Created:            10/11/2016 10:51:27 a.m.
+Last Saved:         22/11/2016 02:18:42 p.m.
+Editing Time:       5018 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic "C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.sch" with PCB "C:\Users\Bryan\Documents\Trabajo\ImagineXYZ\HarwareDevelopment\Git\ZeusBoard\PCBs\ZeusBoard\ZeusBoard.pcb"
+================================================================================================================================================================================================================================================================
+
+
+End Of Report.

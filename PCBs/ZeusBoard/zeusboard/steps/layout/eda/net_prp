@@ -1,0 +1,15 @@
+NET_TYPE_CLEARANCES {
+net_type1 = *
+net_type2 = *
+layers = *
+trace2trace = 0.005512
+via2via = 0.005512
+via2trace = 0.005512
+pin2pin = 0.005512
+via2pin = 0.005512
+trace2pin = 0.005512
+plane2plane = 0.005512
+via2plane = 0.011811
+trace2plane = 0.011811
+pin2plane = 0.011811
+}

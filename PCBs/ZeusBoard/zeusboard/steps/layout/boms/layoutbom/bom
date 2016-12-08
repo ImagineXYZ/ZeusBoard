@@ -1,0 +1,1346 @@
+HEADER
+BRD
+REV
+HEADER_END
+#
+RD_CPN
+REF CON9
+LNFILE 2 components.list
+CPN 47589-0001
+LNFILE 2 components.list
+NO_POP 0
+
+REF U7
+LNFILE 3 components.list
+CPN MCP73831T-2ACI/OT
+LNFILE 3 components.list
+NO_POP 0
+
+REF DPWR2
+LNFILE 4 components.list
+CPN HT-193USD-5590
+LNFILE 4 components.list
+NO_POP 0
+
+REF RPWR3
+LNFILE 5 components.list
+CPN ESR03EZPJ471
+LNFILE 5 components.list
+NO_POP 0
+
+REF RPWR4
+LNFILE 6 components.list
+CPN ESR03EZPJ102
+LNFILE 6 components.list
+NO_POP 0
+
+REF RPWR1
+LNFILE 6 components.list
+CPN ESR03EZPJ102
+LNFILE 6 components.list
+NO_POP 0
+
+REF RC3
+LNFILE 6 components.list
+CPN ESR03EZPJ102
+LNFILE 6 components.list
+NO_POP 0
+
+REF RR6
+LNFILE 6 components.list
+CPN ESR03EZPJ102
+LNFILE 6 components.list
+NO_POP 0
+
+REF DPWR4
+LNFILE 7 components.list
+CPN DB2G32600L1
+LNFILE 7 components.list
+NO_POP 0
+
+REF JST1
+LNFILE 8 components.list
+CPN JST_S2B-PH-K-S
+LNFILE 8 components.list
+NO_POP 0
+
+REF JPWR2
+LNFILE 9 components.list
+CPN 826936-2
+LNFILE 9 components.list
+NO_POP 0
+
+REF JPWR1
+LNFILE 9 components.list
+CPN 826936-2
+LNFILE 9 components.list
+NO_POP 0
+
+REF JPWR3
+LNFILE 9 components.list
+CPN 826936-2
+LNFILE 9 components.list
+NO_POP 0
+
+REF JCMOSI
+LNFILE 9 components.list
+CPN 826936-2
+LNFILE 9 components.list
+NO_POP 0
+
+REF JCSCK
+LNFILE 9 components.list
+CPN 826936-2
+LNFILE 9 components.list
+NO_POP 0
+
+REF JMISO
+LNFILE 9 components.list
+CPN 826936-2
+LNFILE 9 components.list
+NO_POP 0
+
+REF JBTX
+LNFILE 9 components.list
+CPN 826936-2
+LNFILE 9 components.list
+NO_POP 0
+
+REF JBRX
+LNFILE 9 components.list
+CPN 826936-2
+LNFILE 9 components.list
+NO_POP 0
+
+REF JR1
+LNFILE 9 components.list
+CPN 826936-2
+LNFILE 9 components.list
+NO_POP 0
+
+REF JR2
+LNFILE 9 components.list
+CPN 826936-2
+LNFILE 9 components.list
+NO_POP 0
+
+REF CPWR1
+LNFILE 10 components.list
+CPN GRM188R61C106MAALD
+LNFILE 10 components.list
+NO_POP 0
+
+REF U8
+LNFILE 11 components.list
+CPN AZ1117IH-3.3TRG1
+LNFILE 11 components.list
+NO_POP 0
+
+REF CPWR2
+LNFILE 12 components.list
+CPN GRM188R60J106ME47D
+LNFILE 12 components.list
+NO_POP 0
+
+REF CC1
+LNFILE 12 components.list
+CPN GRM188R60J106ME47D
+LNFILE 12 components.list
+NO_POP 0
+
+REF CD1
+LNFILE 12 components.list
+CPN GRM188R60J106ME47D
+LNFILE 12 components.list
+NO_POP 0
+
+REF CD3
+LNFILE 12 components.list
+CPN GRM188R60J106ME47D
+LNFILE 12 components.list
+NO_POP 0
+
+REF CPWR3
+LNFILE 13 components.list
+CPN 885012106003
+LNFILE 13 components.list
+NO_POP 0
+
+REF CB1
+LNFILE 13 components.list
+CPN 885012106003
+LNFILE 13 components.list
+NO_POP 0
+
+REF DPWR1
+LNFILE 14 components.list
+CPN APT1608EC
+LNFILE 14 components.list
+NO_POP 0
+
+REF CPWR4
+LNFILE 15 components.list
+CPN KR-5R5C105-R
+LNFILE 15 components.list
+NO_POP 0
+
+REF SW1
+LNFILE 16 components.list
+CPN SS-12D07-VG 4 NS GA PA
+LNFILE 16 components.list
+NO_POP 0
+
+REF CON11
+LNFILE 17 components.list
+CPN 861400082LO1332LF
+LNFILE 17 components.list
+NO_POP 0
+
+REF DPWR3
+LNFILE 18 components.list
+CPN AP1608SGC
+LNFILE 18 components.list
+NO_POP 0
+
+REF RG2
+LNFILE 19 components.list
+CPN ESR03EZPJ222
+LNFILE 19 components.list
+NO_POP 0
+
+REF RG3
+LNFILE 19 components.list
+CPN ESR03EZPJ222
+LNFILE 19 components.list
+NO_POP 0
+
+REF RPWR2
+LNFILE 20 components.list
+CPN ESR03EZPJ222
+LNFILE 20 components.list
+NO_POP 0
+
+REF RC1
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RR7
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RG1
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RG8
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RG9
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RB3
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RB4
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RR3
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RR2
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RR1
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RR4
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RX1
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RX2
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RX3
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RX4
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RX5
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF RX6
+LNFILE 21 components.list
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+NO_POP 0
+
+REF SWC1
+LNFILE 22 components.list
+CPN FSMSM
+LNFILE 22 components.list
+NO_POP 0
+
+REF SWG1
+LNFILE 22 components.list
+CPN FSMSM
+LNFILE 22 components.list
+NO_POP 0
+
+REF SWG2
+LNFILE 22 components.list
+CPN FSMSM
+LNFILE 22 components.list
+NO_POP 0
+
+REF SWB1
+LNFILE 22 components.list
+CPN FSMSM
+LNFILE 22 components.list
+NO_POP 0
+
+REF SW2
+LNFILE 22 components.list
+CPN FSMSM
+LNFILE 22 components.list
+NO_POP 0
+
+REF SW3
+LNFILE 22 components.list
+CPN FSMSM
+LNFILE 22 components.list
+NO_POP 0
+
+REF RC2
+LNFILE 23 components.list
+CPN ESR03EZPJ301
+LNFILE 23 components.list
+NO_POP 0
+
+REF CC5
+LNFILE 24 components.list
+CPN GRM188R70J104KA01D
+LNFILE 24 components.list
+NO_POP 0
+
+REF CC3
+LNFILE 24 components.list
+CPN GRM188R70J104KA01D
+LNFILE 24 components.list
+NO_POP 0
+
+REF CC2
+LNFILE 24 components.list
+CPN GRM188R70J104KA01D
+LNFILE 24 components.list
+NO_POP 0
+
+REF CC9
+LNFILE 24 components.list
+CPN GRM188R70J104KA01D
+LNFILE 24 components.list
+NO_POP 0
+
+REF CC6
+LNFILE 24 components.list
+CPN GRM188R70J104KA01D
+LNFILE 24 components.list
+NO_POP 0
+
+REF CC10
+LNFILE 24 components.list
+CPN GRM188R70J104KA01D
+LNFILE 24 components.list
+NO_POP 0
+
+REF CI2
+LNFILE 24 components.list
+CPN GRM188R70J104KA01D
+LNFILE 24 components.list
+NO_POP 0
+
+REF CI1
+LNFILE 24 components.list
+CPN GRM188R70J104KA01D
+LNFILE 24 components.list
+NO_POP 0
+
+REF CM1
+LNFILE 24 components.list
+CPN GRM188R70J104KA01D
+LNFILE 24 components.list
+NO_POP 0
+
+REF CR4
+LNFILE 24 components.list
+CPN GRM188R70J104KA01D
+LNFILE 24 components.list
+NO_POP 0
+
+REF CB2
+LNFILE 24 components.list
+CPN GRM188R70J104KA01D
+LNFILE 24 components.list
+NO_POP 0
+
+REF CC4
+LNFILE 25 components.list
+CPN GRM188R60J105KA01D
+LNFILE 25 components.list
+NO_POP 0
+
+REF DC1
+LNFILE 26 components.list
+CPN CLM3A-MKW-CVBXA513
+LNFILE 26 components.list
+NO_POP 0
+
+REF CON8
+LNFILE 27 components.list
+CPN 61300511121
+LNFILE 27 components.list
+NO_POP 0
+
+REF XTC1
+LNFILE 28 components.list
+CPN ST3215SB32768E0HPWBB
+LNFILE 28 components.list
+NO_POP 0
+
+REF XBT1
+LNFILE 28 components.list
+CPN ST3215SB32768E0HPWBB
+LNFILE 28 components.list
+NO_POP 0
+
+REF CC8
+LNFILE 29 components.list
+CPN GQM1885C1H9R0CB01D
+LNFILE 29 components.list
+NO_POP 0
+
+REF CC7
+LNFILE 29 components.list
+CPN GQM1885C1H9R0CB01D
+LNFILE 29 components.list
+NO_POP 0
+
+REF CBX2
+LNFILE 29 components.list
+CPN GQM1885C1H9R0CB01D
+LNFILE 29 components.list
+NO_POP 0
+
+REF CBX1
+LNFILE 29 components.list
+CPN GQM1885C1H9R0CB01D
+LNFILE 29 components.list
+NO_POP 0
+
+REF LC1
+LNFILE 30 components.list
+CPN CBMF1608T100K
+LNFILE 30 components.list
+NO_POP 0
+
+REF U2
+LNFILE 31 components.list
+CPN SIM808
+LNFILE 31 components.list
+NO_POP 0
+
+REF CON4
+LNFILE 32 components.list
+CPN 1010027182
+LNFILE 32 components.list
+NO_POP 0
+
+REF UR1
+LNFILE 33 components.list
+CPN ESDA6V1-5SC6
+LNFILE 33 components.list
+NO_POP 0
+
+REF DR6
+LNFILE 34 components.list
+CPN CDSU400B
+LNFILE 34 components.list
+NO_POP 0
+
+REF DG1
+LNFILE 34 components.list
+CPN CDSU400B
+LNFILE 34 components.list
+NO_POP 0
+
+REF DG2
+LNFILE 34 components.list
+CPN CDSU400B
+LNFILE 34 components.list
+NO_POP 0
+
+REF DR1
+LNFILE 34 components.list
+CPN CDSU400B
+LNFILE 34 components.list
+NO_POP 0
+
+REF DR2
+LNFILE 34 components.list
+CPN CDSU400B
+LNFILE 34 components.list
+NO_POP 0
+
+REF DR3
+LNFILE 34 components.list
+CPN CDSU400B
+LNFILE 34 components.list
+NO_POP 0
+
+REF DR4
+LNFILE 34 components.list
+CPN CDSU400B
+LNFILE 34 components.list
+NO_POP 0
+
+REF DR5
+LNFILE 34 components.list
+CPN CDSU400B
+LNFILE 34 components.list
+NO_POP 0
+
+REF U6
+LNFILE 35 components.list
+CPN A2235-H
+LNFILE 35 components.list
+NO_POP 0
+
+REF U5
+LNFILE 36 components.list
+CPN S70FL01GSAGFI011
+LNFILE 36 components.list
+NO_POP 0
+
+REF U4
+LNFILE 37 components.list
+CPN BMI160
+LNFILE 37 components.list
+NO_POP 0
+
+REF CON5
+LNFILE 38 components.list
+CPN 503182-1852
+LNFILE 38 components.list
+NO_POP 0
+
+REF CON10
+LNFILE 39 components.list
+CPN 61300411121
+LNFILE 39 components.list
+NO_POP 0
+
+REF RG4
+LNFILE 40 components.list
+CPN CRCW06030000Z0EA
+LNFILE 40 components.list
+NO_POP 0
+
+REF RG5
+LNFILE 40 components.list
+CPN CRCW06030000Z0EA
+LNFILE 40 components.list
+NO_POP 0
+
+REF RG6
+LNFILE 40 components.list
+CPN CRCW06030000Z0EA
+LNFILE 40 components.list
+NO_POP 0
+
+REF RG7
+LNFILE 40 components.list
+CPN CRCW06030000Z0EA
+LNFILE 40 components.list
+NO_POP 0
+
+REF JG1
+LNFILE 41 components.list
+CPN 929800-01-02
+LNFILE 41 components.list
+NO_POP 0
+
+REF JG2
+LNFILE 41 components.list
+CPN 929800-01-02
+LNFILE 41 components.list
+NO_POP 0
+
+REF JD1
+LNFILE 41 components.list
+CPN 929800-01-02
+LNFILE 41 components.list
+NO_POP 0
+
+REF U3
+LNFILE 42 components.list
+CPN MDBT40
+LNFILE 42 components.list
+NO_POP 0
+
+REF CON6
+LNFILE 43 components.list
+CPN 826949-5
+LNFILE 43 components.list
+NO_POP 0
+
+REF CON7
+LNFILE 43 components.list
+CPN 826949-5
+LNFILE 43 components.list
+NO_POP 0
+
+REF DR7
+LNFILE 44 components.list
+CPN 150060YS75000
+LNFILE 44 components.list
+NO_POP 0
+
+REF QR1
+LNFILE 45 components.list
+CPN BSS138
+LNFILE 45 components.list
+NO_POP 0
+
+REF QX1
+LNFILE 45 components.list
+CPN BSS138
+LNFILE 45 components.list
+NO_POP 0
+
+REF QX2
+LNFILE 45 components.list
+CPN BSS138
+LNFILE 45 components.list
+NO_POP 0
+
+REF QX3
+LNFILE 45 components.list
+CPN BSS138
+LNFILE 45 components.list
+NO_POP 0
+
+REF U1
+LNFILE 46 components.list
+CPN SAMD21
+LNFILE 46 components.list
+NO_POP 0
+
+REF CON2
+LNFILE 47 components.list
+CPN U.FL-R-SMT-1(01)
+LNFILE 47 components.list
+NO_POP 0
+
+REF CON3
+LNFILE 47 components.list
+CPN U.FL-R-SMT-1(01)
+LNFILE 47 components.list
+NO_POP 0
+
+REF CON1
+LNFILE 47 components.list
+CPN U.FL-R-SMT-1(01)
+LNFILE 47 components.list
+NO_POP 0
+
+REF U9
+LNFILE 48 components.list
+CPN TPS61021ADSGR
+LNFILE 48 components.list
+NO_POP 0
+
+REF LD1
+LNFILE 49 components.list
+CPN IHLP1212AEERR47M11
+LNFILE 49 components.list
+NO_POP 0
+
+REF CD2
+LNFILE 50 components.list
+CPN C0603C180K5GACTU
+LNFILE 50 components.list
+NO_POP 0
+
+REF RD1
+LNFILE 51 components.list
+CPN RK73H1JTTD4023F
+LNFILE 51 components.list
+NO_POP 0
+
+REF RD2
+LNFILE 52 components.list
+CPN CRCW0603100KFKEA
+LNFILE 52 components.list
+NO_POP 0
+
+REF JC3
+LNFILE 53 components.list
+CPN 1P
+LNFILE 53 components.list
+NO_POP 0
+
+REF JC2
+LNFILE 53 components.list
+CPN 1P
+LNFILE 53 components.list
+NO_POP 0
+
+REF JB1
+LNFILE 54 components.list
+CPN PCB_Selector3P
+LNFILE 54 components.list
+NO_POP 0
+
+REF CR1
+LNFILE 55 components.list
+CPN GRM31CD80J107ME39L
+LNFILE 55 components.list
+NO_POP 0
+
+REF CR2
+LNFILE 56 components.list
+CPN VJ0603A330JXQCW1BC
+LNFILE 56 components.list
+NO_POP 0
+
+REF CR3
+LNFILE 57 components.list
+CPN 885012006002
+LNFILE 57 components.list
+NO_POP 0
+
+REF DZR1
+LNFILE 58 components.list
+CPN CD0603-Z5V1
+LNFILE 58 components.list
+NO_POP 0
+
+REF CR5
+LNFILE 59 components.list
+CPN GRM188R60J475KE19D
+LNFILE 59 components.list
+NO_POP 0
+
+REF U10
+LNFILE 60 components.list
+CPN ZeusBoard_Logo_Scale0.1
+LNFILE 60 components.list
+NO_POP 0
+
+REF U11
+LNFILE 61 components.list
+CPN Logo_ImagineXYZ_0.5
+LNFILE 61 components.list
+NO_POP 0
+
+REF U12
+LNFILE 61 components.list
+CPN Logo_ImagineXYZ_0.5
+LNFILE 61 components.list
+NO_POP 0
+
+RD_CPN_END
+#
+CPN_MPN
+CPN_MPN_END
+#
+CP
+CPN 47589-0001
+LNFILE 2 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 1
+
+CPN MCP73831T-2ACI/OT
+LNFILE 3 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 2
+
+CPN HT-193USD-5590
+LNFILE 4 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 3
+
+CPN ESR03EZPJ471
+LNFILE 5 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 4
+
+CPN ESR03EZPJ102
+LNFILE 6 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 4.000000
+ITEM 5
+
+CPN DB2G32600L1
+LNFILE 7 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 9
+
+CPN JST_S2B-PH-K-S
+LNFILE 8 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 10
+
+CPN 826936-2
+LNFILE 9 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 10.000000
+ITEM 11
+
+CPN GRM188R61C106MAALD
+LNFILE 10 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 21
+
+CPN AZ1117IH-3.3TRG1
+LNFILE 11 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 22
+
+CPN GRM188R60J106ME47D
+LNFILE 12 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 4.000000
+ITEM 23
+
+CPN 885012106003
+LNFILE 13 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 2.000000
+ITEM 27
+
+CPN APT1608EC
+LNFILE 14 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 29
+
+CPN KR-5R5C105-R
+LNFILE 15 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 30
+
+CPN SS-12D07-VG 4 NS GA PA
+LNFILE 16 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 31
+
+CPN 861400082LO1332LF
+LNFILE 17 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 32
+
+CPN AP1608SGC
+LNFILE 18 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 33
+
+CPN ESR03EZPJ222
+LNFILE 19 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 2.000000
+ITEM 34
+
+CPN ESR03EZPJ222
+LNFILE 20 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 36
+
+CPN ESR03EZPF1002
+LNFILE 21 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 17.000000
+ITEM 37
+
+CPN FSMSM
+LNFILE 22 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 6.000000
+ITEM 54
+
+CPN ESR03EZPJ301
+LNFILE 23 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 60
+
+CPN GRM188R70J104KA01D
+LNFILE 24 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 11.000000
+ITEM 61
+
+CPN GRM188R60J105KA01D
+LNFILE 25 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 72
+
+CPN CLM3A-MKW-CVBXA513
+LNFILE 26 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 73
+
+CPN 61300511121
+LNFILE 27 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 74
+
+CPN ST3215SB32768E0HPWBB
+LNFILE 28 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 2.000000
+ITEM 75
+
+CPN GQM1885C1H9R0CB01D
+LNFILE 29 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 4.000000
+ITEM 77
+
+CPN CBMF1608T100K
+LNFILE 30 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 81
+
+CPN SIM808
+LNFILE 31 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 82
+
+CPN 1010027182
+LNFILE 32 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 83
+
+CPN ESDA6V1-5SC6
+LNFILE 33 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 84
+
+CPN CDSU400B
+LNFILE 34 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 8.000000
+ITEM 85
+
+CPN A2235-H
+LNFILE 35 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 93
+
+CPN S70FL01GSAGFI011
+LNFILE 36 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 94
+
+CPN BMI160
+LNFILE 37 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 95
+
+CPN 503182-1852
+LNFILE 38 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 96
+
+CPN 61300411121
+LNFILE 39 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 97
+
+CPN CRCW06030000Z0EA
+LNFILE 40 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 4.000000
+ITEM 98
+
+CPN 929800-01-02
+LNFILE 41 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 3.000000
+ITEM 102
+
+CPN MDBT40
+LNFILE 42 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 105
+
+CPN 826949-5
+LNFILE 43 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 2.000000
+ITEM 106
+
+CPN 150060YS75000
+LNFILE 44 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 108
+
+CPN BSS138
+LNFILE 45 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 4.000000
+ITEM 109
+
+CPN SAMD21
+LNFILE 46 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 113
+
+CPN U.FL-R-SMT-1(01)
+LNFILE 47 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 3.000000
+ITEM 114
+
+CPN TPS61021ADSGR
+LNFILE 48 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 117
+
+CPN IHLP1212AEERR47M11
+LNFILE 49 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 118
+
+CPN C0603C180K5GACTU
+LNFILE 50 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 119
+
+CPN RK73H1JTTD4023F
+LNFILE 51 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 120
+
+CPN CRCW0603100KFKEA
+LNFILE 52 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 121
+
+CPN 1P
+LNFILE 53 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 2.000000
+ITEM 122
+
+CPN PCB_Selector3P
+LNFILE 54 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 124
+
+CPN GRM31CD80J107ME39L
+LNFILE 55 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 125
+
+CPN VJ0603A330JXQCW1BC
+LNFILE 56 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 126
+
+CPN 885012006002
+LNFILE 57 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 127
+
+CPN CD0603-Z5V1
+LNFILE 58 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 128
+
+CPN GRM188R60J475KE19D
+LNFILE 59 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 129
+
+CPN ZeusBoard_Logo_Scale0.1
+LNFILE 60 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 1.000000
+ITEM 130
+
+CPN Logo_ImagineXYZ_0.5
+LNFILE 61 components.list
+IPN
+LNFILE 0 components.list
+PKG
+LNFILE 0 components.list
+QNT 2.000000
+ITEM 131
+
+CP_END
+FILE_END

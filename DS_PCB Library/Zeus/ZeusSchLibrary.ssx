@@ -10,6 +10,7 @@ AZ1117IH-3.3TRG1||3
 BMI160||14
 C||2
 CP||2
+DCDC||4
 Diode||2
 ESDProtection6||6
 Flash16Pins||16

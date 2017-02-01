@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report File:        Z:\home\carvajavo\Documents\Github\ZeusBoard\PCBs\Harvester\Harvester (PCB - Pour Copper Report).txt
+Report Written:     Wednesday, January 25, 2017
+Design Path:        Z:\home\carvajavo\Documents\Github\ZeusBoard\PCBs\Harvester\Harvester.pcb
+Design Title:       
+Created:            24/01/2017 09:18:37 a.m.
+Last Saved:         25/01/2017 07:02:17 p.m.
+Editing Time:       1686 min
+Units:              mm (precision 1)
+
+
+End Of Report.
